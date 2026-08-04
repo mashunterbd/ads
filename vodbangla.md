@@ -1,0 +1,312 @@
+# VOD Bangla - #modhumotiwithvod Campaign Report
+
+**Campaign Period:** 2026-07-01 to 2026-07-31
+
+**Total Posts Found:** 273
+- Video Posts: 74
+- Photo Posts: 198
+- Unknown Type: 1
+
+---
+
+## Video Links (74 posts)
+
+1. **2026-07-01** - https://www.facebook.com/reel/1179644978572538/
+2. **2026-07-01** - https://www.facebook.com/reel/1330673499212648/
+3. **2026-07-02** - https://www.facebook.com/reel/3395054810665519/
+4. **2026-07-02** - https://www.facebook.com/reel/1066573592473542/
+5. **2026-07-02** - https://www.facebook.com/reel/27323524370642707/
+6. **2026-07-02** - https://www.facebook.com/reel/948379614923826/
+7. **2026-07-03** - https://www.facebook.com/reel/1346821400923654/
+8. **2026-07-05** - https://www.facebook.com/reel/2276191296457548/
+9. **2026-07-05** - https://www.facebook.com/reel/2524618441356138/
+10. **2026-07-05** - https://www.facebook.com/reel/1038194318662171/
+11. **2026-07-06** - https://www.facebook.com/reel/1622347072847086/
+12. **2026-07-06** - https://www.facebook.com/reel/2178070576308433/
+13. **2026-07-06** - https://www.facebook.com/reel/1569175941481387/
+14. **2026-07-07** - https://www.facebook.com/reel/1719511562329446/
+15. **2026-07-07** - https://www.facebook.com/reel/4321660618056337/
+16. **2026-07-07** - https://www.facebook.com/reel/1810610593684375/
+17. **2026-07-08** - https://www.facebook.com/reel/1405276354845509/
+18. **2026-07-09** - https://www.facebook.com/reel/2256806378467276/
+19. **2026-07-09** - https://www.facebook.com/reel/2030453060899292/
+20. **2026-07-10** - https://www.facebook.com/reel/1386270293353576/
+21. **2026-07-10** - https://www.facebook.com/reel/27449778378017726/
+22. **2026-07-10** - https://www.facebook.com/reel/1008592408893526/
+23. **2026-07-10** - https://www.facebook.com/reel/2897165670618768/
+24. **2026-07-11** - https://www.facebook.com/reel/1610772797135383/
+25. **2026-07-11** - https://www.facebook.com/reel/973099115716588/
+26. **2026-07-11** - https://www.facebook.com/reel/1411253950819006/
+27. **2026-07-12** - https://www.facebook.com/reel/1487957479770419/
+28. **2026-07-12** - https://www.facebook.com/reel/866859749838471/
+29. **2026-07-13** - https://www.facebook.com/reel/4394052567500715/
+30. **2026-07-13** - https://www.facebook.com/reel/1691968775370669/
+31. **2026-07-14** - https://www.facebook.com/reel/4442412689350014/
+32. **2026-07-14** - https://www.facebook.com/reel/27520160840926174/
+33. **2026-07-15** - https://www.facebook.com/reel/27845368535074706/
+34. **2026-07-16** - https://www.facebook.com/reel/1072573648784685/
+35. **2026-07-16** - https://www.facebook.com/reel/886906133980739/
+36. **2026-07-16** - https://www.facebook.com/reel/2193112094596483/
+37. **2026-07-17** - https://www.facebook.com/reel/1520511346490279/
+38. **2026-07-17** - https://www.facebook.com/reel/2355129058348435/
+39. **2026-07-17** - https://www.facebook.com/reel/4596266443927142/
+40. **2026-07-18** - https://www.facebook.com/reel/1743610983320334/
+41. **2026-07-18** - https://www.facebook.com/reel/2045030066101417/
+42. **2026-07-19** - https://www.facebook.com/reel/2101238957154340/
+43. **2026-07-19** - https://www.facebook.com/reel/1777969876976676/
+44. **2026-07-20** - https://www.facebook.com/reel/2532927187151412/
+45. **2026-07-20** - https://www.facebook.com/reel/28158982483714815/
+46. **2026-07-20** - https://www.facebook.com/reel/1194552713746755/
+47. **2026-07-20** - https://www.facebook.com/reel/1337769995005592/
+48. **2026-07-21** - https://www.facebook.com/reel/3974584336179914/
+49. **2026-07-21** - https://www.facebook.com/reel/1363101475172987/
+50. **2026-07-21** - https://www.facebook.com/reel/1037878585603793/
+51. **2026-07-22** - https://www.facebook.com/reel/1032979345808948/
+52. **2026-07-22** - https://www.facebook.com/reel/1348968956736912/
+53. **2026-07-23** - https://www.facebook.com/reel/1380235807585811/
+54. **2026-07-23** - https://www.facebook.com/reel/884512274732522/
+55. **2026-07-23** - https://www.facebook.com/reel/1524446102235012/
+56. **2026-07-24** - https://www.facebook.com/reel/1236361612891654/
+57. **2026-07-24** - https://www.facebook.com/reel/1821690058989882/
+58. **2026-07-25** - https://www.facebook.com/reel/1031454916159353/
+59. **2026-07-25** - https://www.facebook.com/reel/1406947254873245/
+60. **2026-07-26** - https://www.facebook.com/reel/27883947694549637/
+61. **2026-07-26** - https://www.facebook.com/reel/2196818640861548/
+62. **2026-07-26** - https://www.facebook.com/reel/2996467797213799/
+63. **2026-07-27** - https://www.facebook.com/reel/4520569001508445/
+64. **2026-07-27** - https://www.facebook.com/reel/1447446387239213/
+65. **2026-07-28** - https://www.facebook.com/reel/791142017382562/
+66. **2026-07-28** - https://www.facebook.com/reel/1009584795283329/
+67. **2026-07-28** - https://www.facebook.com/reel/4453314401618877/
+68. **2026-07-28** - https://www.facebook.com/reel/1575332994124066/
+69. **2026-07-30** - https://www.facebook.com/reel/1562688005222496/
+70. **2026-07-30** - https://www.facebook.com/reel/28152375351033894/
+71. **2026-07-30** - https://www.facebook.com/reel/1524868592709692/
+72. **2026-07-31** - https://www.facebook.com/reel/1703922244238594/
+73. **2026-07-31** - https://www.facebook.com/reel/27999434583080649/
+74. **2026-07-31** - https://www.facebook.com/reel/1794113155275570/
+
+---
+
+## Photo Card Links (198 posts)
+
+1. **2026-07-01** - https://www.facebook.com/1485153810293072/posts/1509228474552272
+2. **2026-07-01** - https://www.facebook.com/1485153810293072/posts/1509252341216552
+3. **2026-07-01** - https://www.facebook.com/1485153810293072/posts/1509277971213989
+4. **2026-07-01** - https://www.facebook.com/1485153810293072/posts/1509285784546541
+5. **2026-07-01** - https://www.facebook.com/1485153810293072/posts/1509295787878874
+6. **2026-07-01** - https://www.facebook.com/1485153810293072/posts/1509311127877340
+7. **2026-07-01** - https://www.facebook.com/1485153810293072/posts/1509341344540985
+8. **2026-07-02** - https://www.facebook.com/1485153810293072/posts/1509727061169080
+9. **2026-07-02** - https://www.facebook.com/1485153810293072/posts/1509801601161626
+10. **2026-07-02** - https://www.facebook.com/1485153810293072/posts/1509902277818225
+11. **2026-07-02** - https://www.facebook.com/1485153810293072/posts/1509937517814701
+12. **2026-07-02** - https://www.facebook.com/1485153810293072/posts/1509973211144465
+13. **2026-07-02** - https://www.facebook.com/1485153810293072/posts/1510016117806841
+14. **2026-07-02** - https://www.facebook.com/1485153810293072/posts/1510259567782496
+15. **2026-07-03** - https://www.facebook.com/1485153810293072/posts/1510739264401193
+16. **2026-07-03** - https://www.facebook.com/1485153810293072/posts/1511001807708272
+17. **2026-07-03** - https://www.facebook.com/1485153810293072/posts/1511065424368577
+18. **2026-07-03** - https://www.facebook.com/1485153810293072/posts/1511078914367228
+19. **2026-07-03** - https://www.facebook.com/1485153810293072/posts/1511103227698130
+20. **2026-07-03** - https://www.facebook.com/1485153810293072/posts/1511143131027473
+21. **2026-07-03** - https://www.facebook.com/1485153810293072/posts/1511182427690210
+22. **2026-07-04** - https://www.facebook.com/1485153810293072/posts/1511724124302707
+23. **2026-07-04** - https://www.facebook.com/1485153810293072/posts/1511849524290167
+24. **2026-07-04** - https://www.facebook.com/1485153810293072/posts/1511890457619407
+25. **2026-07-04** - https://www.facebook.com/1485153810293072/posts/1512014380940348
+26. **2026-07-04** - https://www.facebook.com/1485153810293072/posts/1512063564268763
+27. **2026-07-04** - https://www.facebook.com/1485153810293072/posts/1512173097591143
+28. **2026-07-04** - https://www.facebook.com/1485153810293072/posts/1512182744256845
+29. **2026-07-05** - https://www.facebook.com/1485153810293072/posts/1512652080876578
+30. **2026-07-05** - https://www.facebook.com/1485153810293072/posts/1512669624208157
+31. **2026-07-05** - https://www.facebook.com/1485153810293072/posts/1512776764197443
+32. **2026-07-05** - https://www.facebook.com/1485153810293072/posts/1512821547526298
+33. **2026-07-05** - https://www.facebook.com/1485153810293072/posts/1512987197509733
+34. **2026-07-05** - https://www.facebook.com/1485153810293072/posts/1513134170828369
+35. **2026-07-05** - https://www.facebook.com/1485153810293072/posts/1513214927486960
+36. **2026-07-06** - https://www.facebook.com/1485153810293072/posts/1513630897445363
+37. **2026-07-06** - https://www.facebook.com/1485153810293072/posts/1513663617442091
+38. **2026-07-06** - https://www.facebook.com/1485153810293072/posts/1513712130770573
+39. **2026-07-06** - https://www.facebook.com/1485153810293072/posts/1513869930754793
+40. **2026-07-06** - https://www.facebook.com/1485153810293072/posts/1514100507398402
+41. **2026-07-06** - https://www.facebook.com/1485153810293072/posts/1514131460728640
+42. **2026-07-06** - https://www.facebook.com/1485153810293072/posts/1514162947392158
+43. **2026-07-07** - https://www.facebook.com/1485153810293072/posts/1514589797349473
+44. **2026-07-07** - https://www.facebook.com/1485153810293072/posts/1514642137344239
+45. **2026-07-07** - https://www.facebook.com/1485153810293072/posts/1514697707338682
+46. **2026-07-07** - https://www.facebook.com/1485153810293072/posts/1515062747302178
+47. **2026-07-07** - https://www.facebook.com/1485153810293072/posts/1515090387299414
+48. **2026-07-07** - https://www.facebook.com/1485153810293072/posts/1515155967292856
+49. **2026-07-07** - https://www.facebook.com/1485153810293072/posts/1515182470623539
+50. **2026-07-08** - https://www.facebook.com/1485153810293072/posts/1515570517251401
+51. **2026-07-08** - https://www.facebook.com/1485153810293072/posts/1515641947244258
+52. **2026-07-08** - https://www.facebook.com/1485153810293072/posts/1515672567241196
+53. **2026-07-08** - https://www.facebook.com/1485153810293072/posts/1515699993905120
+54. **2026-07-08** - https://www.facebook.com/1485153810293072/posts/1515742360567550
+55. **2026-07-08** - https://www.facebook.com/1485153810293072/posts/1515895657218887
+56. **2026-07-08** - https://www.facebook.com/1485153810293072/posts/1515915257216927
+57. **2026-07-09** - https://www.facebook.com/1485153810293072/posts/1516489030492883
+58. **2026-07-09** - https://www.facebook.com/1485153810293072/posts/1516502137158239
+59. **2026-07-09** - https://www.facebook.com/1485153810293072/posts/1516532847155168
+60. **2026-07-09** - https://www.facebook.com/1485153810293072/posts/1516607823814337
+61. **2026-07-09** - https://www.facebook.com/1485153810293072/posts/1516716540470132
+62. **2026-07-09** - https://www.facebook.com/1485153810293072/posts/1516820273793092
+63. **2026-07-09** - https://www.facebook.com/1485153810293072/posts/1516862617122191
+64. **2026-07-10** - https://www.facebook.com/1485153810293072/posts/1517399497068503
+65. **2026-07-10** - https://www.facebook.com/1485153810293072/posts/1517478547060598
+66. **2026-07-10** - https://www.facebook.com/1485153810293072/posts/1517667307041722
+67. **2026-07-10** - https://www.facebook.com/1485153810293072/posts/1517706627037790
+68. **2026-07-10** - https://www.facebook.com/1485153810293072/posts/1517782763696843
+69. **2026-07-10** - https://www.facebook.com/1485153810293072/posts/1517876970354089
+70. **2026-07-11** - https://www.facebook.com/1485153810293072/posts/1518237133651406
+71. **2026-07-11** - https://www.facebook.com/1485153810293072/posts/1518276196980833
+72. **2026-07-11** - https://www.facebook.com/1485153810293072/posts/1518297456978707
+73. **2026-07-11** - https://www.facebook.com/1485153810293072/posts/1518360710305715
+74. **2026-07-11** - https://www.facebook.com/1485153810293072/posts/1518570603618059
+75. **2026-07-11** - https://www.facebook.com/1485153810293072/posts/1518737043601415
+76. **2026-07-12** - https://www.facebook.com/1485153810293072/posts/1519166223558497
+77. **2026-07-12** - https://www.facebook.com/1485153810293072/posts/1519253120216474
+78. **2026-07-12** - https://www.facebook.com/1485153810293072/posts/1519279873547132
+79. **2026-07-12** - https://www.facebook.com/1485153810293072/posts/1519397923535327
+80. **2026-07-12** - https://www.facebook.com/1485153810293072/posts/1519450863530033
+81. **2026-07-12** - https://www.facebook.com/1485153810293072/posts/1519576680184118
+82. **2026-07-12** - https://www.facebook.com/1485153810293072/posts/1519618383513281
+83. **2026-07-13** - https://www.facebook.com/1485153810293072/posts/1519958543479265
+84. **2026-07-13** - https://www.facebook.com/1485153810293072/posts/1519992896809163
+85. **2026-07-13** - https://www.facebook.com/1485153810293072/posts/1520066730135113
+86. **2026-07-13** - https://www.facebook.com/1485153810293072/posts/1520393236769129
+87. **2026-07-13** - https://www.facebook.com/1485153810293072/posts/1520417903433329
+88. **2026-07-13** - https://www.facebook.com/1485153810293072/posts/1520456843429435
+89. **2026-07-13** - https://www.facebook.com/1485153810293072/posts/1520474963427623
+90. **2026-07-14** - https://www.facebook.com/1485153810293072/posts/1520795046728948
+91. **2026-07-14** - https://www.facebook.com/1485153810293072/posts/1520918873383232
+92. **2026-07-14** - https://www.facebook.com/1485153810293072/posts/1521096586698794
+93. **2026-07-14** - https://www.facebook.com/1485153810293072/posts/1521143266694126
+94. **2026-07-14** - https://www.facebook.com/1485153810293072/posts/1521335093341610
+95. **2026-07-14** - https://www.facebook.com/1485153810293072/posts/1521348586673594
+96. **2026-07-15** - https://www.facebook.com/1485153810293072/posts/1521740273301092
+97. **2026-07-15** - https://www.facebook.com/1485153810293072/posts/1521772243297895
+98. **2026-07-15** - https://www.facebook.com/1485153810293072/posts/1521858269955959
+99. **2026-07-15** - https://www.facebook.com/1485153810293072/posts/1522024119939374
+100. **2026-07-15** - https://www.facebook.com/1485153810293072/posts/1522057303269389
+101. **2026-07-16** - https://www.facebook.com/1485153810293072/posts/1522711413203978
+102. **2026-07-16** - https://www.facebook.com/1485153810293072/posts/1522844933190626
+103. **2026-07-16** - https://www.facebook.com/1485153810293072/posts/1522920533183066
+104. **2026-07-16** - https://www.facebook.com/1485153810293072/posts/1522950046513448
+105. **2026-07-16** - https://www.facebook.com/1485153810293072/posts/1522974416511011
+106. **2026-07-16** - https://www.facebook.com/1485153810293072/posts/1523160363159083
+107. **2026-07-16** - https://www.facebook.com/1485153810293072/posts/1523176279824158
+108. **2026-07-17** - https://www.facebook.com/1485153810293072/posts/1523655006442952
+109. **2026-07-17** - https://www.facebook.com/1485153810293072/posts/1523674209774365
+110. **2026-07-17** - https://www.facebook.com/1485153810293072/posts/1523753286433124
+111. **2026-07-17** - https://www.facebook.com/1485153810293072/posts/1523975036410949
+112. **2026-07-17** - https://www.facebook.com/1485153810293072/posts/1524046683070451
+113. **2026-07-17** - https://www.facebook.com/1485153810293072/posts/1524182766390176
+114. **2026-07-18** - https://www.facebook.com/1485153810293072/posts/1524476859694100
+115. **2026-07-18** - https://www.facebook.com/1485153810293072/posts/1524702439671542
+116. **2026-07-18** - https://www.facebook.com/1485153810293072/posts/1524757932999326
+117. **2026-07-18** - https://www.facebook.com/1485153810293072/posts/1524844256324027
+118. **2026-07-18** - https://www.facebook.com/1485153810293072/posts/1524876782987441
+119. **2026-07-18** - https://www.facebook.com/1485153810293072/posts/1524887386319714
+120. **2026-07-19** - https://www.facebook.com/1485153810293072/posts/1525443196264133
+121. **2026-07-19** - https://www.facebook.com/1485153810293072/posts/1525448199596966
+122. **2026-07-19** - https://www.facebook.com/1485153810293072/posts/1525514786256974
+123. **2026-07-19** - https://www.facebook.com/1485153810293072/posts/1525744032900716
+124. **2026-07-19** - https://www.facebook.com/1485153810293072/posts/1525810216227431
+125. **2026-07-19** - https://www.facebook.com/1485153810293072/posts/1525878229553963
+126. **2026-07-20** - https://www.facebook.com/1485153810293072/posts/1526140526194400
+127. **2026-07-20** - https://www.facebook.com/1485153810293072/posts/1526189719522814
+128. **2026-07-20** - https://www.facebook.com/1485153810293072/posts/1526236019518184
+129. **2026-07-20** - https://www.facebook.com/1485153810293072/posts/1526320282843091
+130. **2026-07-20** - https://www.facebook.com/1485153810293072/posts/1526380656170387
+131. **2026-07-20** - https://www.facebook.com/1485153810293072/posts/1526636592811460
+132. **2026-07-20** - https://www.facebook.com/1485153810293072/posts/1526659202809199
+133. **2026-07-21** - https://www.facebook.com/1485153810293072/posts/1526974326111020
+134. **2026-07-21** - https://www.facebook.com/1485153810293072/posts/1527013006107152
+135. **2026-07-21** - https://www.facebook.com/1485153810293072/posts/1527202029421583
+136. **2026-07-21** - https://www.facebook.com/1485153810293072/posts/1527474972727622
+137. **2026-07-21** - https://www.facebook.com/1485153810293072/posts/1527509846057468
+138. **2026-07-22** - https://www.facebook.com/1485153810293072/posts/1527970599344726
+139. **2026-07-22** - https://www.facebook.com/1485153810293072/posts/1528013736007079
+140. **2026-07-22** - https://www.facebook.com/1485153810293072/posts/1528334022641717
+141. **2026-07-22** - https://www.facebook.com/1485153810293072/posts/1528356732639446
+142. **2026-07-22** - https://www.facebook.com/1485153810293072/posts/1528364719305314
+143. **2026-07-23** - https://www.facebook.com/1485153810293072/posts/1528760845932368
+144. **2026-07-23** - https://www.facebook.com/1485153810293072/posts/1528868229254963
+145. **2026-07-23** - https://www.facebook.com/1485153810293072/posts/1529028539238932
+146. **2026-07-23** - https://www.facebook.com/1485153810293072/posts/1529105135897939
+147. **2026-07-23** - https://www.facebook.com/1485153810293072/posts/1529138409227945
+148. **2026-07-23** - https://www.facebook.com/1485153810293072/posts/1529244162550703
+149. **2026-07-23** - https://www.facebook.com/1485153810293072/posts/1529249099216876
+150. **2026-07-24** - https://www.facebook.com/1485153810293072/posts/1529620849179701
+151. **2026-07-24** - https://www.facebook.com/1485153810293072/posts/1529644055844047
+152. **2026-07-24** - https://www.facebook.com/1485153810293072/posts/1529715679170218
+153. **2026-07-24** - https://www.facebook.com/1485153810293072/posts/1529804219161364
+154. **2026-07-24** - https://www.facebook.com/1485153810293072/posts/1530042065804246
+155. **2026-07-24** - https://www.facebook.com/1485153810293072/posts/1530106709131115
+156. **2026-07-24** - https://www.facebook.com/1485153810293072/posts/1530181572456962
+157. **2026-07-24** - https://www.facebook.com/1485153810293072/posts/1530193522455767
+158. **2026-07-25** - https://www.facebook.com/1485153810293072/posts/1530435685764884
+159. **2026-07-25** - https://www.facebook.com/1485153810293072/posts/1530558492419270
+160. **2026-07-25** - https://www.facebook.com/1485153810293072/posts/1530990615709391
+161. **2026-07-25** - https://www.facebook.com/1485153810293072/posts/1531002132374906
+162. **2026-07-25** - https://www.facebook.com/1485153810293072/posts/1531005342374585
+163. **2026-07-26** - https://www.facebook.com/1485153810293072/posts/1531340495674403
+164. **2026-07-26** - https://www.facebook.com/1485153810293072/posts/1531497058992080
+165. **2026-07-26** - https://www.facebook.com/1485153810293072/posts/1531567765651676
+166. **2026-07-26** - https://www.facebook.com/1485153810293072/posts/1531584575649995
+167. **2026-07-26** - https://www.facebook.com/1485153810293072/posts/1531811958960590
+168. **2026-07-26** - https://www.facebook.com/1485153810293072/posts/1531837675624685
+169. **2026-07-26** - https://www.facebook.com/1485153810293072/posts/1531859672289152
+170. **2026-07-27** - https://www.facebook.com/1485153810293072/posts/1532235148918271
+171. **2026-07-27** - https://www.facebook.com/1485153810293072/posts/1532524388889347
+172. **2026-07-27** - https://www.facebook.com/1485153810293072/posts/1532813752193744
+173. **2026-07-27** - https://www.facebook.com/1485153810293072/posts/1532846718857114
+174. **2026-07-27** - https://www.facebook.com/1485153810293072/posts/1532883838853402
+175. **2026-07-27** - https://www.facebook.com/1485153810293072/posts/1532908738850912
+176. **2026-07-28** - https://www.facebook.com/1485153810293072/posts/1533161658825620
+177. **2026-07-28** - https://www.facebook.com/1485153810293072/posts/1533372885471164
+178. **2026-07-28** - https://www.facebook.com/1485153810293072/posts/1533721708769615
+179. **2026-07-28** - https://www.facebook.com/1485153810293072/posts/1533726105435842
+180. **2026-07-28** - https://www.facebook.com/1485153810293072/posts/1533734002101719
+181. **2026-07-28** - https://www.facebook.com/1485153810293072/posts/1533751492099970
+182. **2026-07-29** - https://www.facebook.com/1485153810293072/posts/1534327958708990
+183. **2026-07-29** - https://www.facebook.com/1485153810293072/posts/1534430445365408
+184. **2026-07-29** - https://www.facebook.com/1485153810293072/posts/1534494945358958
+185. **2026-07-29** - https://www.facebook.com/1485153810293072/posts/1534552292019890
+186. **2026-07-29** - https://www.facebook.com/1485153810293072/posts/1534563632018756
+187. **2026-07-29** - https://www.facebook.com/1485153810293072/posts/1534611135347339
+188. **2026-07-30** - https://www.facebook.com/1485153810293072/posts/1534961335312319
+189. **2026-07-30** - https://www.facebook.com/1485153810293072/posts/1535002438641542
+190. **2026-07-30** - https://www.facebook.com/1485153810293072/posts/1535079065300546
+191. **2026-07-30** - https://www.facebook.com/1485153810293072/posts/1535112385297214
+192. **2026-07-30** - https://www.facebook.com/1485153810293072/posts/1535171618624624
+193. **2026-07-30** - https://www.facebook.com/1485153810293072/posts/1535418315266621
+194. **2026-07-30** - https://www.facebook.com/1485153810293072/posts/1535514541923665
+195. **2026-07-31** - https://www.facebook.com/1485153810293072/posts/1536181041857015
+196. **2026-07-31** - https://www.facebook.com/1485153810293072/posts/1536329261842193
+197. **2026-07-31** - https://www.facebook.com/1485153810293072/posts/1536473621827757
+198. **2026-07-31** - https://www.facebook.com/1485153810293072/posts/1536495485158904
+
+---
+
+## Other Posts (1 posts)
+
+*These posts contain the hashtag but are neither standard video nor photo posts.*
+
+1. **2026-07-10** - https://www.facebook.com/1485153810293072/posts/1517894483685671
+
+---
+
+## Summary
+
+- **Total Video Posts:** 74
+- **Total Photo Posts:** 198
+- **Campaign Duration:** 31 days
+- **Date Range Verified:** All posts are from July 1-31, 2026 (inclusive)
+- **Hashtag Verified:** All posts contain "#modhumotiwithvod"
+
+---
+
+*Report generated on 2026-08-04T11:48:44.625Z*
