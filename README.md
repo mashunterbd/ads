@@ -1,12 +1,9 @@
 # Social Media Insights Report
 
-_Generated dynamically from all social-media Markdown reports._
-
 ## Overall Summary
 
 | Metric | Total |
 | --- | ---: |
-| Total Accounts Included | 2 |
 | Total Comments | 516 |
 | Total Impressions | 425,511 |
 | Total Likes | 17,793 |
