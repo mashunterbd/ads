@@ -1,1593 +1,215 @@
-# Threads Complete July Performance Report: #modhumotiwithvod
-
-**Platform:** Threads Only
-**Date Range:** July 1, 2026 – July 31, 2026
-**Hashtag Filter:** `#modhumotiwithvod`
-
----
-
-## SUMMARIZED REPORT
-
-| Metric Category | Count / Total |
-| :--- | :--- |
-| **Total Threads Posts Found** | **193** |
-| **Total Photo Cards** | **190** |
-| **Total Video Cards** | **3** |
-| **Total Views** | **34,382** |
-| **Total Impressions** | **34,382** |
-| **Total Likes** | **379** |
-| **Total Comments / Replies** | **149** |
-| **Total Shares (Reposts & Quotes)** | **4** |
-
----
-
-### Media Breakdown Summary
-
-#### 📷 Photo Cards Breakdown (190 Posts)
-- **Total Impressions:** 34,098
-- **Total Likes:** 373
-- **Total Comments / Replies:** 149
-- **Total Shares:** 3
-
-#### 🎥 Video Cards Breakdown (3 Posts)
-- **Total Views:** 284
-- **Total Impressions:** 284
-- **Total Likes:** 6
-- **Total Comments / Replies:** 0
-- **Total Shares:** 1
-
----
-
-## DETAILED THREADS POST LISTINGS
-
-### 📷 PHOTO CARDS (190)
-
-#### 1. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-31 17:43:10 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/Dbd0-FvErfQ](https://www.threads.com/@vodbanglabd/post/Dbd0-FvErfQ)
-- **Impressions:** 30
-- **Likes:** 1
-- **Comments / Replies:** 1
-- **Shares / Reposts:** 0
-
-#### 2. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-31 14:54:52 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/DbdhtaqkrV1](https://www.threads.com/@vodbanglabd/post/DbdhtaqkrV1)
-- **Impressions:** 69
-- **Likes:** 0
-- **Comments / Replies:** 1
-- **Shares / Reposts:** 0
-
-#### 3. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-31 11:41:13 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/DbdLjDYkjRX](https://www.threads.com/@vodbanglabd/post/DbdLjDYkjRX)
-- **Impressions:** 85
-- **Likes:** 1
-- **Comments / Replies:** 1
-- **Shares / Reposts:** 0
-
-#### 4. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-30 17:26:34 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/DbbORnAkpS5](https://www.threads.com/@vodbanglabd/post/DbbORnAkpS5)
-- **Impressions:** 31
-- **Likes:** 0
-- **Comments / Replies:** 0
-- **Shares / Reposts:** 0
-
-#### 5. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-30 15:18:54 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/Dba_qeskmZW](https://www.threads.com/@vodbanglabd/post/Dba_qeskmZW)
-- **Impressions:** 22
-- **Likes:** 0
-- **Comments / Replies:** 0
-- **Shares / Reposts:** 0
-
-#### 6. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-30 09:45:22 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/DbaZfoRoIr_](https://www.threads.com/@vodbanglabd/post/DbaZfoRoIr_)
-- **Impressions:** 352
-- **Likes:** 1
-- **Comments / Replies:** 1
-- **Shares / Reposts:** 0
-
-#### 7. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-30 08:12:40 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/DbaO4w1kY5J](https://www.threads.com/@vodbanglabd/post/DbaO4w1kY5J)
-- **Impressions:** 186
-- **Likes:** 0
-- **Comments / Replies:** 1
-- **Shares / Reposts:** 0
-
-#### 8. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-30 07:21:39 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/DbaJDAzEUlL](https://www.threads.com/@vodbanglabd/post/DbaJDAzEUlL)
-- **Impressions:** 22
-- **Likes:** 0
-- **Comments / Replies:** 1
-- **Shares / Reposts:** 0
-
-#### 9. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-30 05:20:43 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/DbZ7NWLkWmp](https://www.threads.com/@vodbanglabd/post/DbZ7NWLkWmp)
-- **Impressions:** 132
-- **Likes:** 0
-- **Comments / Replies:** 1
-- **Shares / Reposts:** 0
-
-#### 10. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-30 04:07:18 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/DbZyzonIGmC](https://www.threads.com/@vodbanglabd/post/DbZyzonIGmC)
-- **Impressions:** 39
-- **Likes:** 0
-- **Comments / Replies:** 1
-- **Shares / Reposts:** 0
-
-#### 11. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-29 18:01:03 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/DbYtbQnkiZV](https://www.threads.com/@vodbanglabd/post/DbYtbQnkiZV)
-- **Impressions:** 55
-- **Likes:** 0
-- **Comments / Replies:** 0
-- **Shares / Reposts:** 0
-
-#### 12. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-29 16:54:59 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/DbYl3azkgHx](https://www.threads.com/@vodbanglabd/post/DbYl3azkgHx)
-- **Impressions:** 25
-- **Likes:** 2
-- **Comments / Replies:** 1
-- **Shares / Reposts:** 0
-
-#### 13. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-29 16:38:32 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/DbYj-4ACUCq](https://www.threads.com/@vodbanglabd/post/DbYj-4ACUCq)
-- **Impressions:** 107
-- **Likes:** 3
-- **Comments / Replies:** 0
-- **Shares / Reposts:** 0
-
-#### 14. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-29 11:43:32 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/DbYCORYCXYp](https://www.threads.com/@vodbanglabd/post/DbYCORYCXYp)
-- **Impressions:** 23
-- **Likes:** 2
-- **Comments / Replies:** 1
-- **Shares / Reposts:** 0
-
-#### 15. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-28 19:47:55 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/DbWU3G5krXu](https://www.threads.com/@vodbanglabd/post/DbWU3G5krXu)
-- **Impressions:** 28
-- **Likes:** 0
-- **Comments / Replies:** 0
-- **Shares / Reposts:** 0
-
-#### 16. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-28 19:35:24 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/DbWTbgyEkty](https://www.threads.com/@vodbanglabd/post/DbWTbgyEkty)
-- **Impressions:** 71
-- **Likes:** 1
-- **Comments / Replies:** 1
-- **Shares / Reposts:** 0
-
-#### 17. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-28 19:29:38 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/DbWSxJ9Endu](https://www.threads.com/@vodbanglabd/post/DbWSxJ9Endu)
-- **Impressions:** 20
-- **Likes:** 0
-- **Comments / Replies:** 1
-- **Shares / Reposts:** 0
-
-#### 18. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-28 11:37:20 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/DbVcuB1CbLa](https://www.threads.com/@vodbanglabd/post/DbVcuB1CbLa)
-- **Impressions:** 246
-- **Likes:** 0
-- **Comments / Replies:** 1
-- **Shares / Reposts:** 0
-
-#### 19. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-28 06:27:00 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/DbU5NDaEV6r](https://www.threads.com/@vodbanglabd/post/DbU5NDaEV6r)
-- **Impressions:** 43
-- **Likes:** 0
-- **Comments / Replies:** 1
-- **Shares / Reposts:** 0
-
-#### 20. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-27 23:00:10 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/DbUGEW6Em6E](https://www.threads.com/@vodbanglabd/post/DbUGEW6Em6E)
-- **Impressions:** 39
-- **Likes:** 2
-- **Comments / Replies:** 0
-- **Shares / Reposts:** 0
-
-#### 21. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-27 22:06:10 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/DbT_40qksAi](https://www.threads.com/@vodbanglabd/post/DbT_40qksAi)
-- **Impressions:** 54
-- **Likes:** 0
-- **Comments / Replies:** 1
-- **Shares / Reposts:** 0
-
-#### 22. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-27 20:56:06 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/DbT33mIE19O](https://www.threads.com/@vodbanglabd/post/DbT33mIE19O)
-- **Impressions:** 61
-- **Likes:** 0
-- **Comments / Replies:** 1
-- **Shares / Reposts:** 0
-
-#### 23. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-27 19:55:02 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/DbTw4YfkqXS](https://www.threads.com/@vodbanglabd/post/DbTw4YfkqXS)
-- **Impressions:** 32
-- **Likes:** 0
-- **Comments / Replies:** 1
-- **Shares / Reposts:** 0
-
-#### 24. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-27 13:05:12 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/DbTB-oTiZjD](https://www.threads.com/@vodbanglabd/post/DbTB-oTiZjD)
-- **Impressions:** 1,741
-- **Likes:** 7
-- **Comments / Replies:** 1
-- **Shares / Reposts:** 0
-
-#### 25. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-27 06:01:49 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/DbSRhqAkd76](https://www.threads.com/@vodbanglabd/post/DbSRhqAkd76)
-- **Impressions:** 144
-- **Likes:** 3
-- **Comments / Replies:** 3
-- **Shares / Reposts:** 0
-
-#### 26. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-26 17:58:09 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/DbQ-tadkl6V](https://www.threads.com/@vodbanglabd/post/DbQ-tadkl6V)
-- **Impressions:** 35
-- **Likes:** 1
-- **Comments / Replies:** 0
-- **Shares / Reposts:** 0
-
-#### 27. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-26 17:21:51 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/DbQ6jfWkrTh](https://www.threads.com/@vodbanglabd/post/DbQ6jfWkrTh)
-- **Impressions:** 739
-- **Likes:** 1
-- **Comments / Replies:** 3
-- **Shares / Reposts:** 0
-
-#### 28. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-26 16:46:43 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/DbQ2iNQkg3_](https://www.threads.com/@vodbanglabd/post/DbQ2iNQkg3_)
-- **Impressions:** 56
-- **Likes:** 0
-- **Comments / Replies:** 1
-- **Shares / Reposts:** 0
-
-#### 29. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-26 11:29:45 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/DbQSQuSElwj](https://www.threads.com/@vodbanglabd/post/DbQSQuSElwj)
-- **Impressions:** 421
-- **Likes:** 2
-- **Comments / Replies:** 0
-- **Shares / Reposts:** 0
-
-#### 30. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-26 11:03:36 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/DbQPRJbiYpz](https://www.threads.com/@vodbanglabd/post/DbQPRJbiYpz)
-- **Impressions:** 274
-- **Likes:** 5
-- **Comments / Replies:** 1
-- **Shares / Reposts:** 0
-
-#### 31. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-26 09:10:56 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/DbQCX-MEWzb](https://www.threads.com/@vodbanglabd/post/DbQCX-MEWzb)
-- **Impressions:** 336
-- **Likes:** 3
-- **Comments / Replies:** 1
-- **Shares / Reposts:** 0
-
-#### 32. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-26 04:46:07 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/DbPkEcGESyb](https://www.threads.com/@vodbanglabd/post/DbPkEcGESyb)
-- **Impressions:** 5,819
-- **Likes:** 3
-- **Comments / Replies:** 1
-- **Shares / Reposts:** 0
-
-#### 33. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-25 18:41:17 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/DbOe2e6Enqg](https://www.threads.com/@vodbanglabd/post/DbOe2e6Enqg)
-- **Impressions:** 46
-- **Likes:** 2
-- **Comments / Replies:** 0
-- **Shares / Reposts:** 0
-
-#### 34. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-25 18:21:17 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/DbOcj_FklG9](https://www.threads.com/@vodbanglabd/post/DbOcj_FklG9)
-- **Impressions:** 40
-- **Likes:** 1
-- **Comments / Replies:** 0
-- **Shares / Reposts:** 0
-
-#### 35. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-25 07:42:11 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/DbNTbCakXuP](https://www.threads.com/@vodbanglabd/post/DbNTbCakXuP)
-- **Impressions:** 116
-- **Likes:** 3
-- **Comments / Replies:** 1
-- **Shares / Reposts:** 0
-
-#### 36. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-25 04:06:37 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/DbM6wOZEdx0](https://www.threads.com/@vodbanglabd/post/DbM6wOZEdx0)
-- **Impressions:** 92
-- **Likes:** 3
-- **Comments / Replies:** 0
-- **Shares / Reposts:** 0
-
-#### 37. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-24 17:47:23 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/DbLz410EmB2](https://www.threads.com/@vodbanglabd/post/DbLz410EmB2)
-- **Impressions:** 1,277
-- **Likes:** 4
-- **Comments / Replies:** 1
-- **Shares / Reposts:** 0
-
-#### 38. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-24 16:09:23 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/DbLoq_yCXxw](https://www.threads.com/@vodbanglabd/post/DbLoq_yCXxw)
-- **Impressions:** 20
-- **Likes:** 0
-- **Comments / Replies:** 0
-- **Shares / Reposts:** 0
-
-#### 39. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-24 10:50:19 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/DbLEKEGIEHA](https://www.threads.com/@vodbanglabd/post/DbLEKEGIEHA)
-- **Impressions:** 231
-- **Likes:** 5
-- **Comments / Replies:** 1
-- **Shares / Reposts:** 0
-
-#### 40. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-24 10:26:56 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/DbLBe1tIKxr](https://www.threads.com/@vodbanglabd/post/DbLBe1tIKxr)
-- **Impressions:** 24
-- **Likes:** 0
-- **Comments / Replies:** 0
-- **Shares / Reposts:** 0
-
-#### 41. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-24 08:22:58 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/DbKzS5gEQuN](https://www.threads.com/@vodbanglabd/post/DbKzS5gEQuN)
-- **Impressions:** 347
-- **Likes:** 6
-- **Comments / Replies:** 1
-- **Shares / Reposts:** 0
-
-#### 42. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-24 06:45:32 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/DbKoJR-EYAL](https://www.threads.com/@vodbanglabd/post/DbKoJR-EYAL)
-- **Impressions:** 33
-- **Likes:** 1
-- **Comments / Replies:** 3
-- **Shares / Reposts:** 0
-
-#### 43. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-24 05:46:20 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/DbKhXtEkc1d](https://www.threads.com/@vodbanglabd/post/DbKhXtEkc1d)
-- **Impressions:** 90
-- **Likes:** 1
-- **Comments / Replies:** 1
-- **Shares / Reposts:** 0
-
-#### 44. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-23 17:59:21 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/DbJQdh9Eszv](https://www.threads.com/@vodbanglabd/post/DbJQdh9Eszv)
-- **Impressions:** 159
-- **Likes:** 3
-- **Comments / Replies:** 1
-- **Shares / Reposts:** 0
-
-#### 45. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-23 17:52:19 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/DbJPqGCEuLd](https://www.threads.com/@vodbanglabd/post/DbJPqGCEuLd)
-- **Impressions:** 38
-- **Likes:** 0
-- **Comments / Replies:** 0
-- **Shares / Reposts:** 0
-
-#### 46. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-23 15:10:18 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/DbI9HcWIOXi](https://www.threads.com/@vodbanglabd/post/DbI9HcWIOXi)
-- **Impressions:** 79
-- **Likes:** 1
-- **Comments / Replies:** 1
-- **Shares / Reposts:** 0
-
-#### 47. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-23 14:21:33 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/DbI3iYYCV1v](https://www.threads.com/@vodbanglabd/post/DbI3iYYCV1v)
-- **Impressions:** 34
-- **Likes:** 1
-- **Comments / Replies:** 1
-- **Shares / Reposts:** 0
-
-#### 48. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-23 12:28:55 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/DbIqpd2IDjw](https://www.threads.com/@vodbanglabd/post/DbIqpd2IDjw)
-- **Impressions:** 127
-- **Likes:** 0
-- **Comments / Replies:** 1
-- **Shares / Reposts:** 0
-
-#### 49. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-23 08:21:48 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/DbIOXegkS6S](https://www.threads.com/@vodbanglabd/post/DbIOXegkS6S)
-- **Impressions:** 64
-- **Likes:** 0
-- **Comments / Replies:** 1
-- **Shares / Reposts:** 0
-
-#### 50. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-23 05:19:21 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/DbH5fJSIOw9](https://www.threads.com/@vodbanglabd/post/DbH5fJSIOw9)
-- **Impressions:** 140
-- **Likes:** 2
-- **Comments / Replies:** 1
-- **Shares / Reposts:** 0
-
-#### 51. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-22 17:31:49 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/DbGohFukopJ](https://www.threads.com/@vodbanglabd/post/DbGohFukopJ)
-- **Impressions:** 33
-- **Likes:** 2
-- **Comments / Replies:** 1
-- **Shares / Reposts:** 0
-
-#### 52. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-22 17:20:30 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/DbGnOL0Epn5](https://www.threads.com/@vodbanglabd/post/DbGnOL0Epn5)
-- **Impressions:** 16
-- **Likes:** 0
-- **Comments / Replies:** 0
-- **Shares / Reposts:** 0
-
-#### 53. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-22 16:46:19 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/DbGjTzlkivw](https://www.threads.com/@vodbanglabd/post/DbGjTzlkivw)
-- **Impressions:** 89
-- **Likes:** 1
-- **Comments / Replies:** 1
-- **Shares / Reposts:** 0
-
-#### 54. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-22 08:43:58 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/DbFsG9_kZ2_](https://www.threads.com/@vodbanglabd/post/DbFsG9_kZ2_)
-- **Impressions:** 62
-- **Likes:** 0
-- **Comments / Replies:** 1
-- **Shares / Reposts:** 0
-
-#### 55. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-22 07:30:47 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/DbFju5kEVPd](https://www.threads.com/@vodbanglabd/post/DbFju5kEVPd)
-- **Impressions:** 25
-- **Likes:** 0
-- **Comments / Replies:** 1
-- **Shares / Reposts:** 0
-
-#### 56. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-21 18:09:47 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/DbEIERFkvHa](https://www.threads.com/@vodbanglabd/post/DbEIERFkvHa)
-- **Impressions:** 63
-- **Likes:** 0
-- **Comments / Replies:** 0
-- **Shares / Reposts:** 0
-
-#### 57. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-21 17:16:03 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/DbEB6sTknan](https://www.threads.com/@vodbanglabd/post/DbEB6sTknan)
-- **Impressions:** 32
-- **Likes:** 1
-- **Comments / Replies:** 1
-- **Shares / Reposts:** 0
-
-#### 58. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-21 16:25:22 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/DbD8Hc5CUHN](https://www.threads.com/@vodbanglabd/post/DbD8Hc5CUHN)
-- **Impressions:** 30
-- **Likes:** 0
-- **Comments / Replies:** 1
-- **Shares / Reposts:** 0
-
-#### 59. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-21 10:04:44 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/DbDQjrvIEcE](https://www.threads.com/@vodbanglabd/post/DbDQjrvIEcE)
-- **Impressions:** 82
-- **Likes:** 0
-- **Comments / Replies:** 1
-- **Shares / Reposts:** 0
-
-#### 60. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-21 04:56:29 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/DbCtR8XkVe6](https://www.threads.com/@vodbanglabd/post/DbCtR8XkVe6)
-- **Impressions:** 32
-- **Likes:** 1
-- **Comments / Replies:** 1
-- **Shares / Reposts:** 0
-
-#### 61. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-21 03:49:34 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/DbCln3ekai9](https://www.threads.com/@vodbanglabd/post/DbCln3ekai9)
-- **Impressions:** 58
-- **Likes:** 0
-- **Comments / Replies:** 1
-- **Shares / Reposts:** 0
-
-#### 62. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-20 17:59:22 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/DbBiFHfEonD](https://www.threads.com/@vodbanglabd/post/DbBiFHfEonD)
-- **Impressions:** 59
-- **Likes:** 1
-- **Comments / Replies:** 0
-- **Shares / Reposts:** 0
-
-#### 63. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-20 17:25:05 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/DbBeJ9qEjN7](https://www.threads.com/@vodbanglabd/post/DbBeJ9qEjN7)
-- **Impressions:** 85
-- **Likes:** 0
-- **Comments / Replies:** 1
-- **Shares / Reposts:** 0
-
-#### 64. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-20 11:15:41 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/DbAz4d4CYb0](https://www.threads.com/@vodbanglabd/post/DbAz4d4CYb0)
-- **Impressions:** 31
-- **Likes:** 2
-- **Comments / Replies:** 0
-- **Shares / Reposts:** 0
-
-#### 65. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-20 09:39:37 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/DbAo4v9IOUU](https://www.threads.com/@vodbanglabd/post/DbAo4v9IOUU)
-- **Impressions:** 18
-- **Likes:** 1
-- **Comments / Replies:** 1
-- **Shares / Reposts:** 0
-
-#### 66. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-20 07:14:13 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/DbAYP3XkZSa](https://www.threads.com/@vodbanglabd/post/DbAYP3XkZSa)
-- **Impressions:** 28
-- **Likes:** 1
-- **Comments / Replies:** 1
-- **Shares / Reposts:** 0
-
-#### 67. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-20 06:06:48 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/DbAQiIAkSHV](https://www.threads.com/@vodbanglabd/post/DbAQiIAkSHV)
-- **Impressions:** 19
-- **Likes:** 1
-- **Comments / Replies:** 1
-- **Shares / Reposts:** 0
-
-#### 68. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-20 04:17:26 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/DbAEBB5Ebbm](https://www.threads.com/@vodbanglabd/post/DbAEBB5Ebbm)
-- **Impressions:** 165
-- **Likes:** 4
-- **Comments / Replies:** 1
-- **Shares / Reposts:** 0
-
-#### 69. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-19 20:20:58 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/Da_NfQZEv4G](https://www.threads.com/@vodbanglabd/post/Da_NfQZEv4G)
-- **Impressions:** 7
-- **Likes:** 0
-- **Comments / Replies:** 1
-- **Shares / Reposts:** 0
-
-#### 70. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-19 18:40:47 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/Da_CBl8EqNV](https://www.threads.com/@vodbanglabd/post/Da_CBl8EqNV)
-- **Impressions:** 63
-- **Likes:** 0
-- **Comments / Replies:** 1
-- **Shares / Reposts:** 0
-
-#### 71. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-19 17:00:07 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/Da-2gPzkvGW](https://www.threads.com/@vodbanglabd/post/Da-2gPzkvGW)
-- **Impressions:** 14
-- **Likes:** 1
-- **Comments / Replies:** 1
-- **Shares / Reposts:** 0
-
-#### 72. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-19 11:27:30 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/Da-QcI5CRlI](https://www.threads.com/@vodbanglabd/post/Da-QcI5CRlI)
-- **Impressions:** 341
-- **Likes:** 6
-- **Comments / Replies:** 1
-- **Shares / Reposts:** 0
-
-#### 73. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-19 09:39:22 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/Da-EEHgkeHM](https://www.threads.com/@vodbanglabd/post/Da-EEHgkeHM)
-- **Impressions:** 9
-- **Likes:** 0
-- **Comments / Replies:** 0
-- **Shares / Reposts:** 0
-
-#### 74. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-19 09:31:40 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/Da-DLwYkb3o](https://www.threads.com/@vodbanglabd/post/Da-DLwYkb3o)
-- **Impressions:** 10
-- **Likes:** 0
-- **Comments / Replies:** 0
-- **Shares / Reposts:** 0
-
-#### 75. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-18 15:41:21 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/Da8IseDiZRe](https://www.threads.com/@vodbanglabd/post/Da8IseDiZRe)
-- **Impressions:** 36
-- **Likes:** 0
-- **Comments / Replies:** 1
-- **Shares / Reposts:** 0
-
-#### 76. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-18 15:26:48 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/Da8HB6oCY0C](https://www.threads.com/@vodbanglabd/post/Da8HB6oCY0C)
-- **Impressions:** 37
-- **Likes:** 1
-- **Comments / Replies:** 1
-- **Shares / Reposts:** 0
-
-#### 77. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-18 14:40:52 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/Da8BxabCaeu](https://www.threads.com/@vodbanglabd/post/Da8BxabCaeu)
-- **Impressions:** 48
-- **Likes:** 0
-- **Comments / Replies:** 1
-- **Shares / Reposts:** 0
-
-#### 78. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-18 12:39:28 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/Da7z4Wvibky](https://www.threads.com/@vodbanglabd/post/Da7z4Wvibky)
-- **Impressions:** 26
-- **Likes:** 0
-- **Comments / Replies:** 1
-- **Shares / Reposts:** 0
-
-#### 79. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-18 11:20:47 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/Da7q4BBCYuX](https://www.threads.com/@vodbanglabd/post/Da7q4BBCYuX)
-- **Impressions:** 16
-- **Likes:** 0
-- **Comments / Replies:** 1
-- **Shares / Reposts:** 0
-
-#### 80. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-18 04:54:25 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/Da6-qOaEYdK](https://www.threads.com/@vodbanglabd/post/Da6-qOaEYdK)
-- **Impressions:** 155
-- **Likes:** 1
-- **Comments / Replies:** 1
-- **Shares / Reposts:** 0
-
-#### 81. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-17 19:20:50 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/Da59BKPkluN](https://www.threads.com/@vodbanglabd/post/Da59BKPkluN)
-- **Impressions:** 157
-- **Likes:** 0
-- **Comments / Replies:** 1
-- **Shares / Reposts:** 0
-
-#### 82. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-17 15:57:22 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/Da5lu3zicxC](https://www.threads.com/@vodbanglabd/post/Da5lu3zicxC)
-- **Impressions:** 34
-- **Likes:** 0
-- **Comments / Replies:** 1
-- **Shares / Reposts:** 0
-
-#### 83. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-17 14:19:52 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/Da5akw9iaYa](https://www.threads.com/@vodbanglabd/post/Da5akw9iaYa)
-- **Impressions:** 15
-- **Likes:** 0
-- **Comments / Replies:** 1
-- **Shares / Reposts:** 0
-
-#### 84. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-17 09:21:31 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/Da44blHoIo_](https://www.threads.com/@vodbanglabd/post/Da44blHoIo_)
-- **Impressions:** 592
-- **Likes:** 0
-- **Comments / Replies:** 1
-- **Shares / Reposts:** 0
-
-#### 85. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-17 07:10:19 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/Da4pasgkUzA](https://www.threads.com/@vodbanglabd/post/Da4pasgkUzA)
-- **Impressions:** 30
-- **Likes:** 0
-- **Comments / Replies:** 1
-- **Shares / Reposts:** 0
-
-#### 86. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-17 06:34:38 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/Da4lVSCkQUE](https://www.threads.com/@vodbanglabd/post/Da4lVSCkQUE)
-- **Impressions:** 25
-- **Likes:** 0
-- **Comments / Replies:** 0
-- **Shares / Reposts:** 0
-
-#### 87. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-16 16:44:32 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/Da3GVcBCb0W](https://www.threads.com/@vodbanglabd/post/Da3GVcBCb0W)
-- **Impressions:** 109
-- **Likes:** 3
-- **Comments / Replies:** 1
-- **Shares / Reposts:** 1
-
-#### 88. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-16 16:28:21 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/Da3Ee_HCUmw](https://www.threads.com/@vodbanglabd/post/Da3Ee_HCUmw)
-- **Impressions:** 198
-- **Likes:** 2
-- **Comments / Replies:** 1
-- **Shares / Reposts:** 0
-
-#### 89. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-16 12:28:21 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/Da2pBGOiQ-R](https://www.threads.com/@vodbanglabd/post/Da2pBGOiQ-R)
-- **Impressions:** 186
-- **Likes:** 1
-- **Comments / Replies:** 2
-- **Shares / Reposts:** 0
-
-#### 90. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-16 12:05:18 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/Da2mYV0iVFn](https://www.threads.com/@vodbanglabd/post/Da2mYV0iVFn)
-- **Impressions:** 50
-- **Likes:** 3
-- **Comments / Replies:** 0
-- **Shares / Reposts:** 0
-
-#### 91. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-16 11:14:16 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/Da2gigmCVWv](https://www.threads.com/@vodbanglabd/post/Da2gigmCVWv)
-- **Impressions:** 82
-- **Likes:** 0
-- **Comments / Replies:** 1
-- **Shares / Reposts:** 0
-
-#### 92. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-16 09:18:25 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/Da2TSCcoMzB](https://www.threads.com/@vodbanglabd/post/Da2TSCcoMzB)
-- **Impressions:** 91
-- **Likes:** 0
-- **Comments / Replies:** 1
-- **Shares / Reposts:** 0
-
-#### 93. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-16 05:27:01 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/Da14zLoEV0k](https://www.threads.com/@vodbanglabd/post/Da14zLoEV0k)
-- **Impressions:** 269
-- **Likes:** 3
-- **Comments / Replies:** 1
-- **Shares / Reposts:** 0
-
-#### 94. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-15 12:57:06 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/Da0Hg1kiVeZ](https://www.threads.com/@vodbanglabd/post/Da0Hg1kiVeZ)
-- **Impressions:** 43
-- **Likes:** 1
-- **Comments / Replies:** 1
-- **Shares / Reposts:** 0
-
-#### 95. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-15 12:18:33 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/Da0DGcuoCcH](https://www.threads.com/@vodbanglabd/post/Da0DGcuoCcH)
-- **Impressions:** 31
-- **Likes:** 0
-- **Comments / Replies:** 1
-- **Shares / Reposts:** 0
-
-#### 96. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-15 08:37:31 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/DazpzjEEUnm](https://www.threads.com/@vodbanglabd/post/DazpzjEEUnm)
-- **Impressions:** 1,376
-- **Likes:** 4
-- **Comments / Replies:** 1
-- **Shares / Reposts:** 0
-
-#### 97. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-15 06:35:20 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/Dazb0vYkSj3](https://www.threads.com/@vodbanglabd/post/Dazb0vYkSj3)
-- **Impressions:** 27
-- **Likes:** 0
-- **Comments / Replies:** 1
-- **Shares / Reposts:** 0
-
-#### 98. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-15 05:50:13 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/DazWqRLEXq8](https://www.threads.com/@vodbanglabd/post/DazWqRLEXq8)
-- **Impressions:** 511
-- **Likes:** 0
-- **Comments / Replies:** 1
-- **Shares / Reposts:** 0
-
-#### 99. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-14 18:30:14 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/DayI15SEi1x](https://www.threads.com/@vodbanglabd/post/DayI15SEi1x)
-- **Impressions:** 84
-- **Likes:** 1
-- **Comments / Replies:** 1
-- **Shares / Reposts:** 0
-
-#### 100. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-14 18:09:32 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/DayGeUFEoZ6](https://www.threads.com/@vodbanglabd/post/DayGeUFEoZ6)
-- **Impressions:** 76
-- **Likes:** 1
-- **Comments / Replies:** 0
-- **Shares / Reposts:** 0
-
-#### 101. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-14 13:41:28 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/Daxny6Oic9A](https://www.threads.com/@vodbanglabd/post/Daxny6Oic9A)
-- **Impressions:** 113
-- **Likes:** 6
-- **Comments / Replies:** 1
-- **Shares / Reposts:** 0
-
-#### 102. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-14 12:37:13 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/DaxgcVfoFb3](https://www.threads.com/@vodbanglabd/post/DaxgcVfoFb3)
-- **Impressions:** 39
-- **Likes:** 0
-- **Comments / Replies:** 1
-- **Shares / Reposts:** 0
-
-#### 103. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-14 08:10:29 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/DaxB6r5kXs9](https://www.threads.com/@vodbanglabd/post/DaxB6r5kXs9)
-- **Impressions:** 71
-- **Likes:** 0
-- **Comments / Replies:** 1
-- **Shares / Reposts:** 0
-
-#### 104. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-14 04:46:20 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/DawqjdkkfMj](https://www.threads.com/@vodbanglabd/post/DawqjdkkfMj)
-- **Impressions:** 507
-- **Likes:** 9
-- **Comments / Replies:** 1
-- **Shares / Reposts:** 0
-
-#### 105. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-13 18:49:05 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/DavmNG8EnMC](https://www.threads.com/@vodbanglabd/post/DavmNG8EnMC)
-- **Impressions:** 36
-- **Likes:** 0
-- **Comments / Replies:** 0
-- **Shares / Reposts:** 0
-
-#### 106. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-13 18:20:44 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/Davi9ZBEo6B](https://www.threads.com/@vodbanglabd/post/Davi9ZBEo6B)
-- **Impressions:** 91
-- **Likes:** 1
-- **Comments / Replies:** 0
-- **Shares / Reposts:** 0
-
-#### 107. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-13 17:19:17 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/Davb7XqEt42](https://www.threads.com/@vodbanglabd/post/Davb7XqEt42)
-- **Impressions:** 39
-- **Likes:** 0
-- **Comments / Replies:** 1
-- **Shares / Reposts:** 0
-
-#### 108. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-13 16:42:35 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/DavXuoQEq9N](https://www.threads.com/@vodbanglabd/post/DavXuoQEq9N)
-- **Impressions:** 98
-- **Likes:** 0
-- **Comments / Replies:** 1
-- **Shares / Reposts:** 0
-
-#### 109. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-13 08:24:25 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/Dauet3XkRjG](https://www.threads.com/@vodbanglabd/post/Dauet3XkRjG)
-- **Impressions:** 3,187
-- **Likes:** 63
-- **Comments / Replies:** 0
-- **Shares / Reposts:** 0
-
-#### 110. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-13 06:13:38 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/DauPv_FkdXE](https://www.threads.com/@vodbanglabd/post/DauPv_FkdXE)
-- **Impressions:** 357
-- **Likes:** 2
-- **Comments / Replies:** 1
-- **Shares / Reposts:** 0
-
-#### 111. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-13 05:07:08 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/DauII5FEfCt](https://www.threads.com/@vodbanglabd/post/DauII5FEfCt)
-- **Impressions:** 32
-- **Likes:** 3
-- **Comments / Replies:** 1
-- **Shares / Reposts:** 0
-
-#### 112. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-12 17:58:01 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/Das7kMrEu0G](https://www.threads.com/@vodbanglabd/post/Das7kMrEu0G)
-- **Impressions:** 220
-- **Likes:** 5
-- **Comments / Replies:** 0
-- **Shares / Reposts:** 0
-
-#### 113. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-12 16:55:22 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/Das0ZToEphE](https://www.threads.com/@vodbanglabd/post/Das0ZToEphE)
-- **Impressions:** 62
-- **Likes:** 0
-- **Comments / Replies:** 1
-- **Shares / Reposts:** 0
-
-#### 114. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-12 14:02:58 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/DasgqsZEoPT](https://www.threads.com/@vodbanglabd/post/DasgqsZEoPT)
-- **Impressions:** 348
-- **Likes:** 3
-- **Comments / Replies:** 1
-- **Shares / Reposts:** 0
-
-#### 115. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-12 12:50:06 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/DasYU9ToLue](https://www.threads.com/@vodbanglabd/post/DasYU9ToLue)
-- **Impressions:** 164
-- **Likes:** 1
-- **Comments / Replies:** 1
-- **Shares / Reposts:** 0
-
-#### 116. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-12 09:44:03 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/DasDCTUoEdz](https://www.threads.com/@vodbanglabd/post/DasDCTUoEdz)
-- **Impressions:** 28
-- **Likes:** 1
-- **Comments / Replies:** 1
-- **Shares / Reposts:** 0
-
-#### 117. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-12 08:56:58 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/Dar9pcqEe6d](https://www.threads.com/@vodbanglabd/post/Dar9pcqEe6d)
-- **Impressions:** 108
-- **Likes:** 1
-- **Comments / Replies:** 1
-- **Shares / Reposts:** 0
-
-#### 118. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-12 06:23:35 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/DarsGB-kXNj](https://www.threads.com/@vodbanglabd/post/DarsGB-kXNj)
-- **Impressions:** 23
-- **Likes:** 1
-- **Comments / Replies:** 0
-- **Shares / Reposts:** 0
-
-#### 119. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-11 17:33:18 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/DaqT8UdEsZf](https://www.threads.com/@vodbanglabd/post/DaqT8UdEsZf)
-- **Impressions:** 28
-- **Likes:** 0
-- **Comments / Replies:** 0
-- **Shares / Reposts:** 0
-
-#### 120. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-11 13:31:26 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/Dap4QzioBpP](https://www.threads.com/@vodbanglabd/post/Dap4QzioBpP)
-- **Impressions:** 31
-- **Likes:** 0
-- **Comments / Replies:** 1
-- **Shares / Reposts:** 0
-
-#### 121. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-11 08:18:49 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/DapUfF2kWnN](https://www.threads.com/@vodbanglabd/post/DapUfF2kWnN)
-- **Impressions:** 91
-- **Likes:** 2
-- **Comments / Replies:** 1
-- **Shares / Reposts:** 0
-
-#### 122. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-11 06:30:10 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/DapIDT1kaXx](https://www.threads.com/@vodbanglabd/post/DapIDT1kaXx)
-- **Impressions:** 40
-- **Likes:** 0
-- **Comments / Replies:** 1
-- **Shares / Reposts:** 0
-
-#### 123. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-11 05:55:42 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/DapEG55kQgD](https://www.threads.com/@vodbanglabd/post/DapEG55kQgD)
-- **Impressions:** 43
-- **Likes:** 0
-- **Comments / Replies:** 1
-- **Shares / Reposts:** 0
-
-#### 124. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-11 04:55:19 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/Dao9MmUkd0p](https://www.threads.com/@vodbanglabd/post/Dao9MmUkd0p)
-- **Impressions:** 93
-- **Likes:** 5
-- **Comments / Replies:** 0
-- **Shares / Reposts:** 0
-
-#### 125. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-10 18:14:33 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/Danz3faEipp](https://www.threads.com/@vodbanglabd/post/Danz3faEipp)
-- **Impressions:** 83
-- **Likes:** 0
-- **Comments / Replies:** 0
-- **Shares / Reposts:** 0
-
-#### 126. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-10 17:48:32 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/Danw4_tEpgy](https://www.threads.com/@vodbanglabd/post/Danw4_tEpgy)
-- **Impressions:** 39
-- **Likes:** 1
-- **Comments / Replies:** 1
-- **Shares / Reposts:** 0
-
-#### 127. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-10 15:35:19 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/DanhpUNEibs](https://www.threads.com/@vodbanglabd/post/DanhpUNEibs)
-- **Impressions:** 60
-- **Likes:** 1
-- **Comments / Replies:** 1
-- **Shares / Reposts:** 0
-
-#### 128. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-10 14:03:04 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/DanXFoCIKKA](https://www.threads.com/@vodbanglabd/post/DanXFoCIKKA)
-- **Impressions:** 53
-- **Likes:** 0
-- **Comments / Replies:** 1
-- **Shares / Reposts:** 0
-
-#### 129. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-10 13:14:05 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/DanRe0RoJMN](https://www.threads.com/@vodbanglabd/post/DanRe0RoJMN)
-- **Impressions:** 378
-- **Likes:** 3
-- **Comments / Replies:** 1
-- **Shares / Reposts:** 0
-
-#### 130. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-10 08:13:14 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/DamvDXjkRuw](https://www.threads.com/@vodbanglabd/post/DamvDXjkRuw)
-- **Impressions:** 1,017
-- **Likes:** 7
-- **Comments / Replies:** 1
-- **Shares / Reposts:** 0
-
-#### 131. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-10 05:53:44 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/DamfFqQkQti](https://www.threads.com/@vodbanglabd/post/DamfFqQkQti)
-- **Impressions:** 22
-- **Likes:** 0
-- **Comments / Replies:** 1
-- **Shares / Reposts:** 0
-
-#### 132. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-09 14:58:02 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/Dak4lYPkhOX](https://www.threads.com/@vodbanglabd/post/Dak4lYPkhOX)
-- **Impressions:** 18
-- **Likes:** 0
-- **Comments / Replies:** 1
-- **Shares / Reposts:** 0
-
-#### 133. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-09 14:14:06 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/Dakzjj-IB6z](https://www.threads.com/@vodbanglabd/post/Dakzjj-IB6z)
-- **Impressions:** 298
-- **Likes:** 6
-- **Comments / Replies:** 1
-- **Shares / Reposts:** 0
-
-#### 134. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-09 12:05:52 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/Dakk4XZoOIa](https://www.threads.com/@vodbanglabd/post/Dakk4XZoOIa)
-- **Impressions:** 42
-- **Likes:** 0
-- **Comments / Replies:** 1
-- **Shares / Reposts:** 0
-
-#### 135. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-09 09:30:09 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/DakTD4OIM9V](https://www.threads.com/@vodbanglabd/post/DakTD4OIM9V)
-- **Impressions:** 92
-- **Likes:** 0
-- **Comments / Replies:** 0
-- **Shares / Reposts:** 0
-
-#### 136. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-09 07:46:17 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/DakHLClkXFp](https://www.threads.com/@vodbanglabd/post/DakHLClkXFp)
-- **Impressions:** 18
-- **Likes:** 0
-- **Comments / Replies:** 0
-- **Shares / Reposts:** 0
-
-#### 137. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-09 07:02:53 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/DakCNLUEef9](https://www.threads.com/@vodbanglabd/post/DakCNLUEef9)
-- **Impressions:** 29
-- **Likes:** 1
-- **Comments / Replies:** 1
-- **Shares / Reposts:** 0
-
-#### 138. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-09 06:39:13 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/Daj_f6RkRY-](https://www.threads.com/@vodbanglabd/post/Daj_f6RkRY-)
-- **Impressions:** 59
-- **Likes:** 0
-- **Comments / Replies:** 1
-- **Shares / Reposts:** 0
-
-#### 139. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-08 14:23:58 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/DaiP465EoUQ](https://www.threads.com/@vodbanglabd/post/DaiP465EoUQ)
-- **Impressions:** 27
-- **Likes:** 0
-- **Comments / Replies:** 0
-- **Shares / Reposts:** 0
-
-#### 140. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-08 13:59:11 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/DaiNDctEuwb](https://www.threads.com/@vodbanglabd/post/DaiNDctEuwb)
-- **Impressions:** 59
-- **Likes:** 1
-- **Comments / Replies:** 0
-- **Shares / Reposts:** 0
-
-#### 141. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-08 10:29:56 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/Dah1GyhIETu](https://www.threads.com/@vodbanglabd/post/Dah1GyhIETu)
-- **Impressions:** 68
-- **Likes:** 2
-- **Comments / Replies:** 1
-- **Shares / Reposts:** 0
-
-#### 142. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-08 08:37:46 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/DahoRW7Ebt2](https://www.threads.com/@vodbanglabd/post/DahoRW7Ebt2)
-- **Impressions:** 42
-- **Likes:** 3
-- **Comments / Replies:** 1
-- **Shares / Reposts:** 0
-
-#### 143. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-08 07:47:12 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/Dahie91Eavv](https://www.threads.com/@vodbanglabd/post/Dahie91Eavv)
-- **Impressions:** 27
-- **Likes:** 0
-- **Comments / Replies:** 1
-- **Shares / Reposts:** 0
-
-#### 144. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-08 05:48:17 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/DahU383kYQS](https://www.threads.com/@vodbanglabd/post/DahU383kYQS)
-- **Impressions:** 17
-- **Likes:** 0
-- **Comments / Replies:** 1
-- **Shares / Reposts:** 0
-
-#### 145. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-07 18:44:12 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/DagI4ChkkPK](https://www.threads.com/@vodbanglabd/post/DagI4ChkkPK)
-- **Impressions:** 5
-- **Likes:** 0
-- **Comments / Replies:** 0
-- **Shares / Reposts:** 0
-
-#### 146. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-07 18:15:07 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/DagFjFukthF](https://www.threads.com/@vodbanglabd/post/DagFjFukthF)
-- **Impressions:** 16
-- **Likes:** 1
-- **Comments / Replies:** 1
-- **Shares / Reposts:** 0
-
-#### 147. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-07 16:47:42 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/Daf7i2kkg55](https://www.threads.com/@vodbanglabd/post/Daf7i2kkg55)
-- **Impressions:** 18
-- **Likes:** 0
-- **Comments / Replies:** 1
-- **Shares / Reposts:** 0
-
-#### 148. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-07 16:12:32 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/Daf3hOgEllM](https://www.threads.com/@vodbanglabd/post/Daf3hOgEllM)
-- **Impressions:** 4
-- **Likes:** 0
-- **Comments / Replies:** 0
-- **Shares / Reposts:** 0
-
-#### 149. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-07 08:20:32 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/DafBgJgkd-h](https://www.threads.com/@vodbanglabd/post/DafBgJgkd-h)
-- **Impressions:** 20
-- **Likes:** 0
-- **Comments / Replies:** 1
-- **Shares / Reposts:** 0
-
-#### 150. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-07 07:00:35 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/Dae4WqHkZal](https://www.threads.com/@vodbanglabd/post/Dae4WqHkZal)
-- **Impressions:** 22
-- **Likes:** 0
-- **Comments / Replies:** 1
-- **Shares / Reposts:** 0
-
-#### 151. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-07 05:47:45 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/DaewBKKkXwD](https://www.threads.com/@vodbanglabd/post/DaewBKKkXwD)
-- **Impressions:** 17
-- **Likes:** 0
-- **Comments / Replies:** 2
-- **Shares / Reposts:** 0
-
-#### 152. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-06 17:56:33 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/DadeoJTEsRi](https://www.threads.com/@vodbanglabd/post/DadeoJTEsRi)
-- **Impressions:** 68
-- **Likes:** 0
-- **Comments / Replies:** 1
-- **Shares / Reposts:** 0
-
-#### 153. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-06 17:12:48 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/DadZnyHErm8](https://www.threads.com/@vodbanglabd/post/DadZnyHErm8)
-- **Impressions:** 34
-- **Likes:** 1
-- **Comments / Replies:** 0
-- **Shares / Reposts:** 0
-
-#### 154. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-06 16:35:24 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/DadVV2kEvjG](https://www.threads.com/@vodbanglabd/post/DadVV2kEvjG)
-- **Impressions:** 81
-- **Likes:** 1
-- **Comments / Replies:** 1
-- **Shares / Reposts:** 0
-
-#### 155. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-06 11:38:57 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/Daczal5koFE](https://www.threads.com/@vodbanglabd/post/Daczal5koFE)
-- **Impressions:** 22
-- **Likes:** 0
-- **Comments / Replies:** 0
-- **Shares / Reposts:** 0
-
-#### 156. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-06 07:57:43 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/DacaGLDEcfA](https://www.threads.com/@vodbanglabd/post/DacaGLDEcfA)
-- **Impressions:** 39
-- **Likes:** 3
-- **Comments / Replies:** 1
-- **Shares / Reposts:** 0
-
-#### 157. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-06 06:40:24 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/DacRP_RkYHk](https://www.threads.com/@vodbanglabd/post/DacRP_RkYHk)
-- **Impressions:** 9
-- **Likes:** 0
-- **Comments / Replies:** 1
-- **Shares / Reposts:** 0
-
-#### 158. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-06 05:44:59 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/DacK6BnEXF0](https://www.threads.com/@vodbanglabd/post/DacK6BnEXF0)
-- **Impressions:** 451
-- **Likes:** 10
-- **Comments / Replies:** 1
-- **Shares / Reposts:** 1
-
-#### 159. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-05 17:45:22 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/Daa4jaakp9R](https://www.threads.com/@vodbanglabd/post/Daa4jaakp9R)
-- **Impressions:** 14
-- **Likes:** 1
-- **Comments / Replies:** 0
-- **Shares / Reposts:** 0
-
-#### 160. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-05 15:53:31 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/DaarwMOEkQe](https://www.threads.com/@vodbanglabd/post/DaarwMOEkQe)
-- **Impressions:** 0
-- **Likes:** 0
-- **Comments / Replies:** 0
-- **Shares / Reposts:** 0
-
-#### 161. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-05 12:46:41 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/DaaWXzLCfqm](https://www.threads.com/@vodbanglabd/post/DaaWXzLCfqm)
-- **Impressions:** 15
-- **Likes:** 0
-- **Comments / Replies:** 1
-- **Shares / Reposts:** 0
-
-#### 162. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-05 08:27:20 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/DaZ4sRAkTwc](https://www.threads.com/@vodbanglabd/post/DaZ4sRAkTwc)
-- **Impressions:** 25
-- **Likes:** 0
-- **Comments / Replies:** 1
-- **Shares / Reposts:** 0
-
-#### 163. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-05 07:19:27 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/DaZw7G-kSNI](https://www.threads.com/@vodbanglabd/post/DaZw7G-kSNI)
-- **Impressions:** 87
-- **Likes:** 6
-- **Comments / Replies:** 1
-- **Shares / Reposts:** 0
-
-#### 164. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-05 04:23:09 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/DaZcv0TEcNu](https://www.threads.com/@vodbanglabd/post/DaZcv0TEcNu)
-- **Impressions:** 278
-- **Likes:** 18
-- **Comments / Replies:** 1
-- **Shares / Reposts:** 0
-
-#### 165. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-05 03:57:46 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/DaZZ16zkShz](https://www.threads.com/@vodbanglabd/post/DaZZ16zkShz)
-- **Impressions:** 7
-- **Likes:** 0
-- **Comments / Replies:** 1
-- **Shares / Reposts:** 0
-
-#### 166. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-04 15:56:14 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/DaYHROAkk5z](https://www.threads.com/@vodbanglabd/post/DaYHROAkk5z)
-- **Impressions:** 57
-- **Likes:** 2
-- **Comments / Replies:** 0
-- **Shares / Reposts:** 0
-
-#### 167. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-04 15:48:12 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/DaYGWZ_knMy](https://www.threads.com/@vodbanglabd/post/DaYGWZ_knMy)
-- **Impressions:** 220
-- **Likes:** 2
-- **Comments / Replies:** 1
-- **Shares / Reposts:** 0
-
-#### 168. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-04 13:15:44 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/DaX05tkkr3u](https://www.threads.com/@vodbanglabd/post/DaX05tkkr3u)
-- **Impressions:** 4
-- **Likes:** 1
-- **Comments / Replies:** 1
-- **Shares / Reposts:** 0
-
-#### 169. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-04 12:10:11 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/DaXtZlJEiPe](https://www.threads.com/@vodbanglabd/post/DaXtZlJEiPe)
-- **Impressions:** 75
-- **Likes:** 0
-- **Comments / Replies:** 1
-- **Shares / Reposts:** 0
-
-#### 170. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-04 09:14:06 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/DaXZP5wEfyZ](https://www.threads.com/@vodbanglabd/post/DaXZP5wEfyZ)
-- **Impressions:** 423
-- **Likes:** 6
-- **Comments / Replies:** 1
-- **Shares / Reposts:** 0
-
-#### 171. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-04 08:19:46 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/DaXTCA6EWK-](https://www.threads.com/@vodbanglabd/post/DaXTCA6EWK-)
-- **Impressions:** 34
-- **Likes:** 2
-- **Comments / Replies:** 0
-- **Shares / Reposts:** 0
-
-#### 172. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-04 05:53:58 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/DaXCWHkkcHV](https://www.threads.com/@vodbanglabd/post/DaXCWHkkcHV)
-- **Impressions:** 128
-- **Likes:** 1
-- **Comments / Replies:** 1
-- **Shares / Reposts:** 0
-
-#### 173. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-03 16:03:07 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/DaVjQz3kgnw](https://www.threads.com/@vodbanglabd/post/DaVjQz3kgnw)
-- **Impressions:** 2,385
-- **Likes:** 54
-- **Comments / Replies:** 2
-- **Shares / Reposts:** 1
-
-#### 174. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-03 15:14:45 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/DaVdug0EqBo](https://www.threads.com/@vodbanglabd/post/DaVdug0EqBo)
-- **Impressions:** 12
-- **Likes:** 0
-- **Comments / Replies:** 0
-- **Shares / Reposts:** 0
-
-#### 175. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-03 14:22:59 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/DaVXzX-kuVp](https://www.threads.com/@vodbanglabd/post/DaVXzX-kuVp)
-- **Impressions:** 11
-- **Likes:** 1
-- **Comments / Replies:** 1
-- **Shares / Reposts:** 0
-
-#### 176. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-03 13:52:24 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/DaVUTauiRxv](https://www.threads.com/@vodbanglabd/post/DaVUTauiRxv)
-- **Impressions:** 37
-- **Likes:** 0
-- **Comments / Replies:** 0
-- **Shares / Reposts:** 0
-
-#### 177. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-03 13:09:18 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/DaVPXtwkuWP](https://www.threads.com/@vodbanglabd/post/DaVPXtwkuWP)
-- **Impressions:** 440
-- **Likes:** 7
-- **Comments / Replies:** 1
-- **Shares / Reposts:** 0
-
-#### 178. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-03 12:20:34 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/DaVJyzXEumm](https://www.threads.com/@vodbanglabd/post/DaVJyzXEumm)
-- **Impressions:** 36
-- **Likes:** 0
-- **Comments / Replies:** 1
-- **Shares / Reposts:** 0
-
-#### 179. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-03 06:05:56 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/DaUe66jkrE8](https://www.threads.com/@vodbanglabd/post/DaUe66jkrE8)
-- **Impressions:** 37
-- **Likes:** 1
-- **Comments / Replies:** 1
-- **Shares / Reposts:** 0
-
-#### 180. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-02 17:16:39 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/DaTG4fVEmvO](https://www.threads.com/@vodbanglabd/post/DaTG4fVEmvO)
-- **Impressions:** 58
-- **Likes:** 0
-- **Comments / Replies:** 1
-- **Shares / Reposts:** 0
-
-#### 181. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-02 11:54:03 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/DaSh9tSiYRp](https://www.threads.com/@vodbanglabd/post/DaSh9tSiYRp)
-- **Impressions:** 42
-- **Likes:** 3
-- **Comments / Replies:** 1
-- **Shares / Reposts:** 0
-
-#### 182. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-02 09:54:22 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/DaSURDBEugV](https://www.threads.com/@vodbanglabd/post/DaSURDBEugV)
-- **Impressions:** 23
-- **Likes:** 1
-- **Comments / Replies:** 0
-- **Shares / Reposts:** 0
-
-#### 183. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-02 09:01:39 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/DaSOO8IkS-q](https://www.threads.com/@vodbanglabd/post/DaSOO8IkS-q)
-- **Impressions:** 90
-- **Likes:** 1
-- **Comments / Replies:** 0
-- **Shares / Reposts:** 0
-
-#### 184. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-02 06:21:26 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/DaR75e4kQGx](https://www.threads.com/@vodbanglabd/post/DaR75e4kQGx)
-- **Impressions:** 52
-- **Likes:** 1
-- **Comments / Replies:** 1
-- **Shares / Reposts:** 0
-
-#### 185. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-01 16:28:34 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/DaQclZ6EjQ8](https://www.threads.com/@vodbanglabd/post/DaQclZ6EjQ8)
-- **Impressions:** 12
-- **Likes:** 0
-- **Comments / Replies:** 0
-- **Shares / Reposts:** 0
-
-#### 186. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-01 16:11:45 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/DaQaqMpkhD5](https://www.threads.com/@vodbanglabd/post/DaQaqMpkhD5)
-- **Impressions:** 50
-- **Likes:** 1
-- **Comments / Replies:** 1
-- **Shares / Reposts:** 0
-
-#### 187. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-01 15:54:45 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/DaQYtuzki3K](https://www.threads.com/@vodbanglabd/post/DaQYtuzki3K)
-- **Impressions:** 4
-- **Likes:** 0
-- **Comments / Replies:** 0
-- **Shares / Reposts:** 0
-
-#### 188. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-01 15:36:44 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/DaQWp0ikjOv](https://www.threads.com/@vodbanglabd/post/DaQWp0ikjOv)
-- **Impressions:** 153
-- **Likes:** 4
-- **Comments / Replies:** 1
-- **Shares / Reposts:** 0
-
-#### 189. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-01 15:13:28 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/DaQT_ZbksFF](https://www.threads.com/@vodbanglabd/post/DaQT_ZbksFF)
-- **Impressions:** 197
-- **Likes:** 2
-- **Comments / Replies:** 0
-- **Shares / Reposts:** 0
-
-#### 190. [vodbanglabd] Photo Post
-- **Date Posted:** 2026-07-01 14:41:56 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/DaQQYb4Em4i](https://www.threads.com/@vodbanglabd/post/DaQQYb4Em4i)
-- **Impressions:** 20
-- **Likes:** 0
-- **Comments / Replies:** 1
-- **Shares / Reposts:** 0
-
-### 🎥 VIDEO CARDS (3)
-
-#### 1. [vodbanglabd] Video Post
-- **Date Posted:** 2026-07-30 12:22:32 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/DbaraGgkYiA](https://www.threads.com/@vodbanglabd/post/DbaraGgkYiA)
-- **Views:** 217
-- **Impressions:** 217
-- **Likes:** 4
-- **Comments / Replies:** 0
-- **Shares / Reposts:** 0
-
-#### 2. [vodbanglabd] Video Post
-- **Date Posted:** 2026-07-22 08:45:21 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/DbFr7YZEePG](https://www.threads.com/@vodbanglabd/post/DbFr7YZEePG)
-- **Views:** 37
-- **Impressions:** 37
-- **Likes:** 0
-- **Comments / Replies:** 0
-- **Shares / Reposts:** 0
-
-#### 3. [vodbanglabd] Video Post
-- **Date Posted:** 2026-07-16 10:30:20 UTC
-- **Post Link:** [https://www.threads.com/@vodbanglabd/post/Da2bbWWEYi0](https://www.threads.com/@vodbanglabd/post/Da2bbWWEYi0)
-- **Views:** 30
-- **Impressions:** 30
-- **Likes:** 2
-- **Comments / Replies:** 0
-- **Shares / Reposts:** 1
+# Threads Multi-Account Analytics Report
+
+**Date Range:** 01-08-2026 to 31-08-2026
+
+**Caption Filter:** #modhumotiwithvod
+
+## Overall Summary
+
+| Metric | Total |
+|---|---|
+| Total Accounts Included | 1 |
+| Total Matched Posts | 183 |
+| Total Views | 37200 |
+| Total Likes | 549 |
+| Total Replies | 162 |
+| Total Reposts | 3 |
+| Total Quotes | 1 |
+
+## vodbanglabd
+
+| Metric | Total |
+|---|---|
+| Matched Posts | 183 |
+| Views | 37200 |
+| Likes | 549 |
+| Replies | 162 |
+| Reposts | 3 |
+| Quotes | 1 |
+
+| Post Type | Caption | Published Date | Published Time | Post URL | Views | Likes | Replies | Reposts | Quotes |
+|---|---|---|---|---|---|---|---|---|---|
+| Image | ভালো চাকরির লোভ দেখিয়ে সৌদিতে নিয়ে নির্যাতন...  #vodbangla #Vodmedia #VODNews #modhumotiwithvod | 2026-08-31 | 23:08:52 | https://www.threads.com/@vodbanglabd/post/Dctlr-EkgS_ | 206 | 1 | 1 | 0 | 0 |
+| Image | চীন সফর ফলপ্রসূ হয়েছে...  #vodbangla #Vodmedia #VODNews #China #modhumotiwithvod | 2026-08-31 | 23:00:33 | https://www.threads.com/@vodbanglabd/post/DctkvEukgFq | 117 | 2 | 1 | 0 | 0 |
+| Image | সেপ্টেম্বরে বাড়ছে না জ্বালানি তেলের দাম...  #vodbangla #Vodmedia #VODNews #modhumotiwithvod | 2026-08-31 | 22:50:36 | https://www.threads.com/@vodbanglabd/post/DctjmOOEm_n | 69 | 1 | 1 | 0 | 0 |
+| Image | মাগুরার আট বছরের শিশু আছিয়া ধ/র্ষ/ণ ও হত্যা মা/মলায় আ/সামি...  #vodbangla #Vodmedia #আছিয়া #modhumotiwithvod | 2026-08-31 | 13:12:37 | https://www.threads.com/@vodbanglabd/post/Dcshc3NIJms | 76 | 0 | 1 | 0 | 0 |
+| Image | প্রতি ওয়ার্ডে, প্রতিটি ঘরে এনসিপির লোক তৈরি করতে পারলে...  #vodbangla #Vodmedia #VODNews #NCP #modhumotiwithvod | 2026-08-31 | 00:10:23 | https://www.threads.com/@vodbanglabd/post/DcrH7rLkiRp | 34 | 0 | 0 | 0 | 0 |
+| Image | একটা কমা পরিবর্তন করা সেটাও সংস্কার...  #vodbangla #Vodmedia #VODNews #modhumotiwithvod #BNP | 2026-08-30 | 23:41:03 | https://www.threads.com/@vodbanglabd/post/DcrEk0jkvss | 250 | 2 | 0 | 0 | 0 |
+| Image | প্রতি বছর ৮ লাখ টিইইউএস কন্টেইনার হ্যান্ডলিং করতে সক্ষম হব। সঙ্গে অনেক...  #vodbangla #Vodmedia #GreenField #modhumotiwithvod | 2026-08-30 | 16:51:51 | https://www.threads.com/@vodbanglabd/post/DcqVvuKIP1E | 43 | 1 | 1 | 0 | 0 |
+| Image | মেসিকে দেখতে না পেয়ে ক্ষুব্ধ দর্শকদের একাংশ স্টেডিয়ামে ভাঙচুর চালান। মেসিকে ঠিকমতো দেখতে...  #vodbangla #Vodmedia #India #messi #modhumotiwithvod | 2026-08-30 | 14:49:18 | https://www.threads.com/@vodbanglabd/post/DcqHuIXoE8y | 59 | 1 | 1 | 0 | 0 |
+| Image | চিত্রনায়ক সালমান শাহ হ/ত্যা মা/মলায় তার সাবেক স্ত্রী সামীরা হকসহ...  #vodbangla #Vodmedia  #সালমানশাহ #মামলা #modhumotiwithvod | 2026-08-30 | 14:21:09 | https://www.threads.com/@vodbanglabd/post/DcqEf-aoP03 | 140 | 0 | 1 | 0 | 0 |
+| Image | আগামী গ্রীষ্মে দেশে বিদ্যুতের ঘাটতি অনেকটাই কমে আসবে...  #vodbangla #Vodmedia #VODNews #electricity #MineralResources #modhumotiwithvod | 2026-08-29 | 23:45:24 | https://www.threads.com/@vodbanglabd/post/DcogR13EtpT | 232 | 2 | 1 | 0 | 0 |
+| Image | ঐক্যবদ্ধ হচ্ছেন রাশিয়া-চীন-ইরানের নেতারা...  #vodbangla #vodworld #russia #China #iran #modhumotiwithvod | 2026-08-29 | 21:54:50 | https://www.threads.com/@vodbanglabd/post/DcoToAGoBOb | 47 | 0 | 1 | 0 | 0 |
+| Image | মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্প যুক্তরাষ্ট্রের সর্বকালের সেরা প্রেসিডেন্টদের একটি র‌্যাঙ্কিং চার্ট শেয়ার করেছেন। যেখানে...  #vodbangla #vodworld #VODNews #Trump #modhumotiwithvod | 2026-08-29 | 17:40:20 | https://www.threads.com/@vodbanglabd/post/Dcn2f9LoNnW | 56 | 0 | 1 | 0 | 0 |
+| Image | চট্টগ্রাম বন্দরের সক্ষমতা বৃদ্ধি, আধুনিকায়ন এবং দেশের বৈদেশিক বাণিজ্য আরও গতিশীল করার লক্ষ্যে...  #vodbangla #Vodmedia #লালদিয়া #সেতুমন্ত্রী #অর্থমন্ত্রী #modhumotiwithvod | 2026-08-29 | 16:32:38 | https://www.threads.com/@vodbanglabd/post/DcnuwGXoOi- | 393 | 9 | 1 | 0 | 0 |
+| Image | গুম-খুনের শিকার এবং জুলাই অভ্যুত্থানে শহীদ পরিবারের ৭৪ সদস্যকে চাকরির নিয়োগপত্র...  #vodbangla #Vodmedia #TariqueRahman #PrimeMinister #modhumotiwithvod | 2026-08-29 | 14:04:13 | https://www.threads.com/@vodbanglabd/post/DcndxG8oMlB | 524 | 14 | 1 | 0 | 0 |
+| Image | ২০১৮ সালে ‘পোড়ামন ২’ সিনেমায় অভিনয়ের পর...  #vodbangla #vodentertainment #বাপ্পারাজ #modhumotiwithvod | 2026-08-29 | 13:49:28 | https://www.threads.com/@vodbanglabd/post/DcncFBiIDj3 | 134 | 2 | 1 | 0 | 0 |
+| Image | প্রধানমন্ত্রীর রাজনৈতিক সহকারী রাশেদ খাঁন বলেছেন, সেপ্টেম্বরে চট্টগ্রাম অভিমুখে জামায়াত-এনসিপির লংমার্চের ঘোষণা ডিসেম্বরে আওয়ামী লীগের ফেরার পথ তৈরি করছে...  #vodbangla #Vodmedia #এনসিপি #জামায়াত #modhumotiwithvod | 2026-08-28 | 21:23:29 | https://www.threads.com/@vodbanglabd/post/DclrPcBoFCa | 173 | 1 | 2 | 0 | 0 |
+| Image | আসন্ন জাতিসংঘ জলবায়ু সম্মেলনে (কপ) যোগ দিতে আগামী নভেম্বরে...  #vodbangla #Vodmedia #প্রধানমন্ত্রী #কপ #modhumotiwithvod | 2026-08-28 | 15:13:16 | https://www.threads.com/@vodbanglabd/post/DclA37gICCB | 166 | 3 | 1 | 0 | 0 |
+| Image | নেপাল-তিব্বত সীমান্ত এলাকায় ভয়াবহ আকস্মিক বন্যায় নিহতের সংখ্যা বেড়ে...  #vodbangla #vodworld #nepal #বন্যা #modhumotiwithvod | 2026-08-28 | 10:53:05 | https://www.threads.com/@vodbanglabd/post/DckjGTbEafo | 208 | 2 | 1 | 0 | 0 |
+| Image | জুলাই সনদ যেভাবে স্বাক্ষরিত হয়েছে আমরা সেটা অক্ষরে অক্ষরে পালন করব, ইনশাআল্লাহ।  #vodbangla #Vodmedia #VODNews #ধর্মপ্রতিমন্ত্রী #জুলাই #modhumotiwithvod | 2026-08-28 | 00:30:23 | https://www.threads.com/@vodbanglabd/post/Dcjb1kCknkY | 451 | 13 | 1 | 0 | 0 |
+| Image | বিরোধীদলের এমপিরা বলা শুরু করবে—ছেড়ে দে মা, কেঁদে বাঁচি; আমরা আর খেলব না...  #vodbangla #Vodmedia #VODNews #রাশেদখাঁন #modhumotiwithvod | 2026-08-28 | 00:17:20 | https://www.threads.com/@vodbanglabd/post/DcjaV6lksi7 | 82 | 1 | 0 | 0 | 0 |
+| Image | ফিফা সভাপতি জিয়ান্নি ইনফান্তিনোর প্রতি সমর্থন জানিয়েছে ২০৩৪ বিশ্বকাপের আয়োজক সৌদি আরবের ফুটবল ফেডারেশন। ফিফার বড় টুর্নামেন্টগুলোর...  #vodbangla #vodsports #VODNews #সৌদিআরব #modhumotiwithvod | 2026-08-27 | 21:31:29 | https://www.threads.com/@vodbanglabd/post/DcjHXMGiYHf | 88 | 2 | 1 | 0 | 0 |
+| Image | নতুন আসন বন্টনে দেখা যায়, সংসদ নেতা ও প্রধানমন্ত্রী তারেক রহমানের পাশের আসনটিতে বসতেন...  #vodbangla #Vodnational #VODNews #স্বরাষ্ট্রমন্ত্রী #প্রধানমন্ত্রী #modhumotiwithvod | 2026-08-27 | 18:56:20 | https://www.threads.com/@vodbanglabd/post/Dci1m0IiT5O | 939 | 3 | 1 | 0 | 0 |
+| Image | হড়কা বান-ভূমি/ধসে নেপাল ও তিব্বতে নিখোঁজ ১৫০০ মানুষ...  #vodbangla #vodworld #nepal #flooding #modhumotiwithvod | 2026-08-27 | 13:18:16 | https://www.threads.com/@vodbanglabd/post/DciO61VoOyh | 251 | 1 | 1 | 0 | 0 |
+| Image | দুর্নীতির ১৫ মামলায় খালাস পেলেন মির্জা আব্বাস...  #vodbangla #Vodmedia #VODNews #modhumotiwithvod | 2026-08-27 | 12:56:10 | https://www.threads.com/@vodbanglabd/post/DciMY68IAFj | 851 | 8 | 2 | 0 | 0 |
+| Image | কক্সবাজারে নিখোঁজ নিউজিল্যান্ডের কিশোরের ম*রদেহ উদ্ধার...  #vodbangla #Vodmedia #VODNews #modhumotiwithvod | 2026-08-26 | 23:59:39 | https://www.threads.com/@vodbanglabd/post/DcgzhgdEiUH | 126 | 1 | 1 | 0 | 0 |
+| Image | যেসব বাংলাদেশি শিক্ষার্থী ইতিমধ্যে চীনে পড়াশোনা করছেন...  #vodbangla #Vodmedia #VODNews #modhumotiwithvod #China | 2026-08-26 | 23:35:05 | https://www.threads.com/@vodbanglabd/post/DcgwtmYkhpG | 572 | 18 | 0 | 0 | 0 |
+| Image | তারেক রহমানের নেতৃত্বে সঠিক পথে হাঁটছি...  #vodbangla #Vodmedia #VODNews #স্থানীয়সরকার #modhumotiwithvod #tarekrahman | 2026-08-26 | 22:05:09 | https://www.threads.com/@vodbanglabd/post/Dcgma8MEh01 | 360 | 6 | 1 | 0 | 0 |
+| Image | আলভারেজকে পেতে মরিয়া লাপোর্তা...  #vodbangla #vodsports #barcelona #argentina #modhumotiwithvod | 2026-08-26 | 21:47:11 | https://www.threads.com/@vodbanglabd/post/DcgkXVdEoMK | 261 | 4 | 1 | 0 | 0 |
+| Image | নেপাল ও তিব্বত সীমান্ত–সংলগ্ন হিমালয় অঞ্চলে প্রবল বন্যায়...  #vodbangla #vodworld #nepal #flooding #modhumotiwithvod | 2026-08-26 | 20:56:48 | https://www.threads.com/@vodbanglabd/post/DcgemSmIF9p | 458 | 3 | 2 | 0 | 0 |
+| Image | ঢাকা–চট্টগ্রাম মহাসড়কে শুটিংয়ের অভিজ্ঞতা নিয়ে...  #vodbangla #vodentertainment #VODNews #vabna #shooting #modhumotiwithvod | 2026-08-26 | 13:48:26 | https://www.threads.com/@vodbanglabd/post/Dcftk41kbcs | 253 | 2 | 1 | 0 | 0 |
+| Image | বিমান বাংলাদেশ এয়ারলাইন্সের বিজি-১৩৬ ফ্লাইটে এক যাত্রীর মৃত্যুর পর ওমানের মাসকাট বিমানবন্দরে...  #vodbangla #Vodmedia #BimanBangladesh #modhumotiwithvod | 2026-08-26 | 12:23:35 | https://www.threads.com/@vodbanglabd/post/Dcfj3VWoB-n | 193 | 2 | 1 | 0 | 0 |
+| Image | ইরানে চলছে ‘মানবিক সংকট’, বিক্ষোভকারীদের হত্যার অভিযোগ ট্রাম্পের...  #vodbangla #vodworld #DonaldTrump #iran #modhumotiwithvod | 2026-08-26 | 00:25:46 | https://www.threads.com/@vodbanglabd/post/DceRt5Uknwp | 308 | 1 | 3 | 0 | 0 |
+| Image | ‘পরিবর্তন প্রয়োজন’ ইনফান্তিনোর বিরুদ্ধে ফুটবলারদের ক্ষোভ...  #vodbangla #vodsports #infantino #FIFA #modhumotiwithvod | 2026-08-25 | 18:11:34 | https://www.threads.com/@vodbanglabd/post/Dcdm5PkIHDQ | 107 | 0 | 1 | 0 | 0 |
+| Image | লক্ষাধিক রোহিঙ্গার সমাবেশ...  #vodbangla #VODNews #রোহিঙ্গা #modhumotiwithvod | 2026-08-25 | 14:36:52 | https://www.threads.com/@vodbanglabd/post/DcdOUuDILvE | 93 | 1 | 1 | 0 | 0 |
+| Image | সম্মিলিত ইসলামী ব্যাংকের আমানতকারীদের মুনাফার ওপর কোনো ধরনের ‘হেয়ারকাট’ থাকবে না বলে স্পষ্টভাবে জানাতে নির্দেশ দিয়েছে বাংলাদেশ ব্যাংক। একই সঙ্গে...  #vodbangla #VODNews #IslamiBank #banking #modhumotiwithvod | 2026-08-25 | 13:54:02 | https://www.threads.com/@vodbanglabd/post/DcdJbCeoDzJ | 118 | 1 | 1 | 0 | 0 |
+| Image | রাজধানীর দক্ষিণ অংশকে আধুনিক, যানজটমুক্ত, সবুজ ও বাসযোগ্য নগর হিসেবে গড়ে তুলতে...  #vodbangla #Vodmedia #VODNews #ঢাকাদক্ষিণ #dscc #modhumotiwithvod | 2026-08-25 | 13:40:20 | https://www.threads.com/@vodbanglabd/post/DcdH2luoGaN | 58 | 1 | 1 | 0 | 0 |
+| Image | ভারত-বাংলাদেশের মধ্যে ১৯৯৬ সালে স্বাক্ষরিত গঙ্গা পানি বণ্টন চুক্তির মেয়াদ...  #vodbangla #Vodmedia #VODNews #ভারত #গঙ্গা #modhumotiwithvod | 2026-08-25 | 13:32:26 | https://www.threads.com/@vodbanglabd/post/DcdG8zYoJJd | 204 | 1 | 1 | 0 | 0 |
+| Image | দলের মধ্যে সব সময় কিছু হারপোকা থাকে চাটুকার থাকে...  #vodbangla #Vodmedia #VODNews #BNP #modhumotiwithvod | 2026-08-25 | 00:21:52 | https://www.threads.com/@vodbanglabd/post/DcbsekCEvDW | 113 | 4 | 0 | 0 | 0 |
+| Image | সিইওকে নির্যাতনের মামলায় সালমানের জামিন...  #vodbangla #Vodmedia #VODNews #বিআইএফএফএল #modhumotiwithvod | 2026-08-24 | 20:38:03 | https://www.threads.com/@vodbanglabd/post/DcbS3KkIB9A | 213 | 0 | 1 | 0 | 0 |
+| Image | ৭ বছর পর চূড়ান্ত রায়, নুসরাতের মা কি সন্তুষ্ট?  #vodbangla #Vodmedia #VODNews #নুসরাত #modhumotiwithvod | 2026-08-24 | 19:30:36 | https://www.threads.com/@vodbanglabd/post/DcbLJJbEjj8 | 191 | 0 | 1 | 0 | 0 |
+| Image | ৫ আগস্টের পর দলের নাম ভাঙিয়ে অপকর্মে যুক্ত ব্যক্তিদের বিরুদ্ধে দলের চেয়ারম্যান...  #vodbangla #Vodmedia #VODNews #রিজভী #BNP #modhumotiwithvod | 2026-08-24 | 15:11:47 | https://www.threads.com/@vodbanglabd/post/DcathlqoI2v | 159 | 2 | 1 | 0 | 0 |
+| Image | অস্ট্রেলিয়ায় সিনেমাটির প্রথম ধাপের শুটিং ও টিজার প্রকাশের পর...  #vodbangla #vodentertainment #VODNews #ShakibKhan #modhumotiwithvod | 2026-08-24 | 14:43:30 | https://www.threads.com/@vodbanglabd/post/DcaqSdKIEGS | 220 | 1 | 1 | 0 | 0 |
+| Image | ঢাবি ছাত্রদলের নতুন নেতৃত্বে আলোচনায় যারা...  #vodbangla #Vodmedia #VODNews #modhumotiwithvod | 2026-08-23 | 20:50:10 | https://www.threads.com/@vodbanglabd/post/DcYvdFeEhSA | 105 | 0 | 1 | 0 | 0 |
+| Image | গু*ম–খু*নের শিকার ব্যক্তিদের জন্য নতুন অধিদপ্তর করার উদ্যোগ...  #vodbangla #Vodmedia #VODNews #modhumotiwithvod | 2026-08-23 | 20:42:06 | https://www.threads.com/@vodbanglabd/post/DcYuiBLEh2- | 151 | 1 | 1 | 0 | 0 |
+| Image | বনশ্রীতে পুলিশের নিষ্ফল অভিযান, ভুল তথ্য দেওয়ায় যুবক আটক...  #vodbangla #Vodmedia #VODNews #modhumotiwithvod | 2026-08-23 | 19:53:18 | https://www.threads.com/@vodbanglabd/post/DcYo8j8ErYv | 276 | 0 | 1 | 0 | 0 |
+| Image | উসাইন বোল্টের রেকর্ড ভেঙেও দৌড় থামাল না রোবট...  #vodbangla #vodworld #robots #উসাইনবোল্টের #modhumotiwithvod | 2026-08-23 | 19:46:31 | https://www.threads.com/@vodbanglabd/post/DcYoK39oPIL | 57 | 0 | 1 | 0 | 0 |
+| Image | ইরানি হ্যাকাররা যুক্তরাজ্যের একটি বিদ্যুৎকেন্দ্র...  #vodbangla #vodworld #iran #usa #cyberattacks #modhumotiwithvod | 2026-08-23 | 18:17:39 | https://www.threads.com/@vodbanglabd/post/DcYd_9dIF5M | 81 | 0 | 1 | 0 | 0 |
+| Image | ডা*কাতি নাকি পরিকল্পিত হ*ত্যা? গোলকধাঁধায় পুলিশ, আটক ২...  #vodbangla #Vodmedia #VODNews #রংপুর #মাছুয়াপাড়া #modhumotiwithvod | 2026-08-23 | 14:08:12 | https://www.threads.com/@vodbanglabd/post/DcYBc_7IPSe | 518 | 0 | 1 | 0 | 0 |
+| Image | মহিলা বাস বা ‘পিংক বাস’ সার্ভিসে ই-টিকিটিং চালু...  #vodbangla #Vodmedia #VODNews #pinkbus #BRTC #modhumotiwithvod | 2026-08-23 | 12:11:38 | https://www.threads.com/@vodbanglabd/post/DcX0HRgEWY4 | 118 | 0 | 1 | 0 | 0 |
+| Image | দেশের বিভিন্ন স্থানে চিকিৎসকদের ওপর ক্রমাগত হা/ম/লা ও নি/পী/ড়নের ঘটনায় গভীর উদ্বেগ প্রকাশ করে বিএনপির স্বাস্থ্যবিষয়ক সম্পাদক...  #vodbangla #Vodmedia #VODNews #চিকিৎসক #বিএনপি #modhumotiwithvod | 2026-08-22 | 22:43:11 | https://www.threads.com/@vodbanglabd/post/DcWXmAPEnP8 | 44 | 1 | 1 | 0 | 0 |
+| Image | দ্বীপজেলা ভোলাকে দেশের মূল সড়ক নেটওয়ার্কের সঙ্গে যুক্ত করতে রহমতপুর–হিজলা–মেহেন্দিগঞ্জ–ভোলা রুটে...  #vodbangla #Vodmedia #VODNews #সড়কপথ #ভোলা #প্রধানমন্ত্রী #modhumotiwithvod | 2026-08-22 | 16:47:38 | https://www.threads.com/@vodbanglabd/post/DcVu54WoIjP | 537 | 14 | 1 | 1 | 0 |
+| Image | বিদ্যুৎ ও গ্যাসের সমস্যা সমাধানে সময়ের প্রয়োজন...  #vodbangla #Vodmedia #VODNews #আমিরখসরু #অর্থমন্ত্রী #বিদ্যুৎ #modhumotiwithvod | 2026-08-22 | 16:39:48 | https://www.threads.com/@vodbanglabd/post/DcVuAhDoEYW | 170 | 3 | 2 | 0 | 0 |
+| Image | পাকিস্তানে নিরাপত্তা বাহিনীর অভিযানে ৪৯ জন নি*হত...  #vodbangla #vodworld #Pakistan #modhumotiwithvod | 2026-08-22 | 14:57:44 | https://www.threads.com/@vodbanglabd/post/DcViU7soA-C | 50 | 1 | 1 | 0 | 0 |
+| Image | ঢালিউড অভিনেতা ফজলুর রহমান বাবুর জন্মদিন আজ...  #vodbangla #vodentertainment #modhumotiwithvod #FazlurRahmanBabu | 2026-08-22 | 14:41:17 | https://www.threads.com/@vodbanglabd/post/DcVgcbhoHSm | 74 | 1 | 1 | 0 | 0 |
+| Image | স্টার্কের তাণ্ডবে ৬৪ রানে অলআউট বাংলাদেশ...  #vodbangla #vodsports #modhumotiwithvod #Australia | 2026-08-22 | 10:04:01 | https://www.threads.com/@vodbanglabd/post/DcVAtqboHvd | 126 | 0 | 1 | 0 | 0 |
+| Image | দেশের ২৩তম রাষ্ট্রপতি হিসেবে শপথ নিয়েছেন মির্জা ফখরুল ইসলাম আলমগীর  #vodbangla #Vodmedia #VODNews #রাষ্ট্রপতি #মির্জাফখরুল #modhumotiwithvod | 2026-08-21 | 19:42:23 | https://www.threads.com/@vodbanglabd/post/DcTeG4wkkBL | 341 | 5 | 1 | 0 | 0 |
+| Image | ঢাকার চারপাশের নদ-নদী দখল ও দূষণমুক্ত করে নৌচলাচল অবাধ, সচল ও নিরাপদ করতে সরকার...  #vodbangla #Vodmedia #VODNews #বুড়িগঙ্গা #সেতুমন্ত্রী #শেখরবিউলআলম #modhumotiwithvod | 2026-08-21 | 18:29:21 | https://www.threads.com/@vodbanglabd/post/DcTVv8gkieH | 93 | 1 | 1 | 0 | 0 |
+| Image | যুক্তরাষ্ট্রে বিমান বি*ধ্বস্ত, ৮ আরোহীর সবাই নি*হত...  #vodbangla #vodworld #usa #modhumotiwithvod | 2026-08-21 | 15:02:52 | https://www.threads.com/@vodbanglabd/post/DcS-HrGIIqF | 546 | 5 | 1 | 0 | 0 |
+| Image | বাংলা চলচ্চিত্রের কিংবদন্তি অভিনেতা নায়করাজ রাজ্জাকের...  #vodbangla #vodentertainment #ShakibKhan #modhumotiwithvod | 2026-08-21 | 14:29:55 | https://www.threads.com/@vodbanglabd/post/DcS6WXIoPAw | 128 | 1 | 1 | 0 | 0 |
+| Image | মির্জা ফখরুল ইসলাম আলমগীরকে বিএনপিতে প্রতিষ্ঠা থেকে দেখিনি...  #vodbangla #Vodmedia #VODNews #বিরোধীদল #রাষ্ট্রপতি #modhumotiwithvod | 2026-08-21 | 11:30:16 | https://www.threads.com/@vodbanglabd/post/DcSlyfsoPJr | 78 | 2 | 0 | 0 | 0 |
+| Image | বেসরকারি এমপিওভুক্ত স্কুল ও কলেজের শিক্ষকদের...  #vodbangla #Vodmedia #VODNews #modhumotiwithvod | 2026-08-21 | 11:13:51 | https://www.threads.com/@vodbanglabd/post/DcSj6QzIL97 | 93 | 2 | 1 | 0 | 0 |
+| Image | নিউজিল্যান্ডকে ৭-১ গোলে উড়িয়ে পরের ধাপে আর্জেন্টিনা...  #vodbangla #vodsports #Argentina #newzealand #modhumotiwithvod | 2026-08-21 | 10:44:45 | https://www.threads.com/@vodbanglabd/post/DcSglKeoIhp | 489 | 5 | 1 | 0 | 0 |
+| Image | প্রয়োজনে রাজনৈতিক ঐকমত্য তৈরি করে জামায়াত-শিবিরের মতো উগ্রবাদী সংগঠনকে নিষিদ্ধ করতে হবে...  #vodbangla #Vodmedia #VODNews #নুর #জামায়াত #শিবির #modhumotiwithvod | 2026-08-21 | 00:06:25 | https://www.threads.com/@vodbanglabd/post/DcRXhydEuJU | 48 | 0 | 0 | 0 | 0 |
+| Image | পরীমণি লেখেন, ‘মেজাজ গরম হওয়ার আগ পর্যন্ত আমি একজন ভালো মানুষ, এরপর...  #vodbangla #vodentertainment #VODNews #পরীমণি #modhumotiwithvod | 2026-08-20 | 20:38:11 | https://www.threads.com/@vodbanglabd/post/DcQ_sraIHSC | 152 | 1 | 1 | 0 | 0 |
+| Image | দেশের ২৩তম রাষ্ট্রপতি নির্বাচিত হয়েছেন বিএনপি প্রার্থী মির্জা ফখরুল ইসলাম আলমগীর...  #vodbangla #Vodmedia #VODNews #মির্জাফখরুল #রাষ্ট্রপতি #modhumotiwithvod | 2026-08-20 | 17:53:57 | https://www.threads.com/@vodbanglabd/post/DcQs5z-IDJF | 96 | 4 | 1 | 0 | 0 |
+| Image | ত্বকের ক্যান্সার ফিরে আসা ঠেকাল নতুন ভ্যাকসিন...  #vodbangla #vodworld #personalized #modhumotiwithvod | 2026-08-20 | 17:01:13 | https://www.threads.com/@vodbanglabd/post/DcQm3lGINMc | 342 | 0 | 1 | 0 | 0 |
+| Image | দেশে বিদ্যুৎ সংকটের জন্য বর্তমান সরকারের ন্যূনতম দায় নেই...  #vodbangla #Vodmedia #VODNews #জাহেদউররহমান #বিদ্যুৎ #modhumotiwithvod | 2026-08-20 | 00:03:22 | https://www.threads.com/@vodbanglabd/post/DcOyYkqEnuR | 169 | 1 | 0 | 0 | 0 |
+| Image | অস্ট্রেলিয়ায় ঐতিহাসিক টেস্ট জয় পেয়েছে বাংলাদেশ। প্রথমবারের মতো প্রতিপক্ষের...  #vodbangla #vodsports #VODNews #AUSvsBAN #testcricket #modhumotiwithvod | 2026-08-19 | 20:01:15 | https://www.threads.com/@vodbanglabd/post/DcOWrQRoKbf | 75 | 2 | 1 | 0 | 0 |
+| Image | ঢাকা দক্ষিণ সিটি কর্পোরেশনের (ডিএসসিসি) উদ্যোগে আয়োজিত হতে যাচ্ছে ‘হৃদয়ে ঢাকা-৪১৬’ চলচ্চিত্র উৎসব ও... #vodbangla #Vodmedia #VODNews #ডিএসসিসি #চলচ্চিত্রউৎসব #modhumotiwithvod | 2026-08-19 | 19:22:54 | https://www.threads.com/@vodbanglabd/post/DcOSScdILN4 | 50 | 2 | 1 | 0 | 0 |
+| Image | পিংক বাস নিয়ে ট্রলকারীদের ‘নিম্নশ্রেণীর’ বললেন নিলয় আলমগীর...  #vodbangla #vodentertainment #modhumotiwithvod #pinkbus | 2026-08-19 | 16:03:01 | https://www.threads.com/@vodbanglabd/post/DcN7aaXIA0r | 482 | 17 | 2 | 0 | 0 |
+| Image | সব দেশের সঙ্গে সমতার ভিত্তিতে বন্ধুত্ব চায় বাংলাদেশ...  #vodbangla #Vodmedia #VODNews #বিএনপি #modhumotiwithvod | 2026-08-19 | 14:55:16 | https://www.threads.com/@vodbanglabd/post/DcNzqRdoFqv | 296 | 7 | 1 | 0 | 0 |
+| Image | মধ্য আফ্রিকায় সোনার খনি ধ*সে ৩০ শ্রমিক নি*হত...  #vodbangla #Vodmedia #VODNews #modhumotiwithvod | 2026-08-19 | 11:57:50 | https://www.threads.com/@vodbanglabd/post/DcNfWtQIHzY | 82 | 0 | 1 | 0 | 0 |
+| Image | এরশাদ শিকদারের কাহিনিতে কেন বারবার ফিরে আসে স্কিডঘাট?  #vodbangla #Vodmedia #VODNews #modhumotiwithvod #এরশাদশিকদার | 2026-08-19 | 09:53:58 | https://www.threads.com/@vodbanglabd/post/DcNRLcnIGg6 | 81 | 0 | 1 | 0 | 0 |
+| Image | ব্রাজিলের কিংবদন্তি ফুটবলার রবার্তো কার্লোস ইসলাম গ্রহণ করেছেন বলে...  #vodbangla #vodsports #VODNews #robertocarlos #islam #modhumotiwithvod | 2026-08-19 | 00:26:08 | https://www.threads.com/@vodbanglabd/post/DcMQMjYEoIN | 1367 | 58 | 3 | 1 | 0 |
+| Image | ঢাকার গণপরিবহন ব্যবস্থাকে পরিবেশবান্ধব ও যাত্রীবান্ধব করতে ২০০টি বৈদ্যুতিক বাস...  #vodbangla #Vodmedia #VODNews #সড়কপরিবহন #শেখরবিউল #EVBus #modhumotiwithvod | 2026-08-18 | 20:24:33 | https://www.threads.com/@vodbanglabd/post/DcL0jGUoK5b | 130 | 1 | 1 | 0 | 0 |
+| Image | নারীদের নিরাপদ যাতায়াত নিশ্চিত করা সরকারের অঙ্গীকার...  #vodbangla #Vodmedia #VODNews #সড়কপরিবহন #modhumotiwithvod | 2026-08-18 | 13:45:06 | https://www.threads.com/@vodbanglabd/post/DcLG1YooKO0 | 76 | 2 | 1 | 0 | 0 |
+| Image | ইনফান্তিনোর সমালোচনা করে চাকরি গেল ফিফা কর্মকর্তার...  #vodbangla #vodsports #GianniInfantino #FIFA #modhumotiwithvod | 2026-08-18 | 12:03:36 | https://www.threads.com/@vodbanglabd/post/DcK7N__EQgC | 129 | 0 | 1 | 0 | 0 |
+| Image | ফিলিপাইনে স্কুলে ব*ন্দুকধারীর গু*লিতে নি*হত ২...  #vodbangla #Vodworld #Philippines #modhumotiwithvod | 2026-08-18 | 11:24:30 | https://www.threads.com/@vodbanglabd/post/DcK2vnfkbot | 38 | 0 | 1 | 0 | 0 |
+| Image | র‌্যাপিড অ্যাকশন ব্যাটালিয়ন (র‌্যাব) বিলুপ্ত করে আসছে...  #vodbangla #Vodmedia #VODNews #rab #modhumotiwithvod | 2026-08-17 | 21:41:26 | https://www.threads.com/@vodbanglabd/post/DcJYjWWEpuj | 88 | 0 | 1 | 0 | 0 |
+| Image | নতুন অধ্যায়ে পা রাখলেন জনপ্রিয় গায়ক ও সংগীত পরিচালক অনুপম রায়। দীর্ঘদিনের সহকর্মী ও জীবনসঙ্গী গায়িকা...  #vodbangla #vodentertainment #VODNews #অনুপম #modhumotiwithvod | 2026-08-17 | 20:25:11 | https://www.threads.com/@vodbanglabd/post/DcJP033oCQS | 120 | 3 | 1 | 0 | 0 |
+| Image | আরবি লাইপজিগের বিপক্ষে বায়ার্ন মিউনিখের প্রীতি ম্যাচের শেষ দিকে হঠাৎ...  #vodbangla #vodsports #VODNews #jamalmusiala #modhumotiwithvod | 2026-08-17 | 19:12:13 | https://www.threads.com/@vodbanglabd/post/DcJHefEIDJm | 68 | 1 | 1 | 0 | 0 |
+| Image | ব্যাটারিচালিত রিকশাগুলোকে রেজিস্ট্রেশনের আওতায় আনা হবে...  #vodbangla #Vodmedia #VODNews #স্থানীয়সরকার #পল্লীউন্নয়ন #modhumotiwithvod | 2026-08-17 | 12:57:01 | https://www.threads.com/@vodbanglabd/post/DcIcicJkSTP | 51 | 0 | 0 | 0 | 0 |
+| Image | যে ব্যক্তি কোনো মার্কিন সেনাকে হ*ত্যা বা ব*ন্দী করে হস্তান্তর করবে...  #vodbangla #vodworld #iran #usa #modhumotiwithvod | 2026-08-17 | 11:57:30 | https://www.threads.com/@vodbanglabd/post/DcIVufPEax_ | 1349 | 93 | 3 | 0 | 0 |
+| Image | ইন্দোনেশিয়ায় ৭.৭ মাত্রার ভূ*মিকম্পে নি*হত বেড়ে ৫৩ ...  #vodbangla #vodworld #earthquake #indonesia #modhumotiwithvod | 2026-08-17 | 11:08:19 | https://www.threads.com/@vodbanglabd/post/DcIQGMsEcnO | 41 | 1 | 1 | 0 | 0 |
+| Image | আস্থা ফিরলেও বড় চ্যালেঞ্জ প্রতিশ্রুতি বাস্তবায়ন...  #vodbangla #Vodmedia #VODNews #modhumotiwithvod | 2026-08-17 | 09:35:38 | https://www.threads.com/@vodbanglabd/post/DcIFfZPoEQN | 75 | 0 | 1 | 0 | 0 |
+| Image | আমি এমন এক কীর্তি করে যেতে চাই, যা মানুষ আজীবন মনে রাখবে...  #vodbangla #vodsports #VODNews #রোনালদো #modhumotiwithvod | 2026-08-16 | 23:51:30 | https://www.threads.com/@vodbanglabd/post/DcHCpC-klS_ | 282 | 12 | 0 | 0 | 0 |
+| Image | নৌপরিবহন, সড়ক পরিবহন ও সেতু এবং রেলপথমন্ত্রী শেখ রবিউল আলম বলেছেন, মোংলা নদীর ওপর দশম বাংলাদেশ-চীন মৈত্রী সেতু...  #vodbangla #Vodmedia #VODNews #শেখরবিউল #সেতুমন্ত্রী #modhumotiwithvod | 2026-08-16 | 22:26:06 | https://www.threads.com/@vodbanglabd/post/DcG43m3CZT4 | 173 | 0 | 1 | 0 | 0 |
+| Image | বিভ্রান্তকারীরা যদি বিভ্রান্ত করতে আসে অতীতের মতো সমুচিত জবাব...  #vodbangla #Vodmedia #VODNews #প্রধানমন্ত্রী #modhumotiwithvod | 2026-08-16 | 22:09:16 | https://www.threads.com/@vodbanglabd/post/DcG28VYkqq4 | 113 | 1 | 0 | 0 | 0 |
+| Image | ইউএফসির মঞ্চে আবারও ইতিহাস গড়লেন ইসলাম মাখাচেভ। আয়ারল্যান্ডের...  #vodbangla #vodsports #VODNews #makhachev #UFCFightPass #modhumotiwithvod | 2026-08-16 | 20:25:30 | https://www.threads.com/@vodbanglabd/post/DcGrEQroHSy | 70 | 1 | 1 | 0 | 0 |
+| Image | গত কয়েক সপ্তাহ ধরে বাংলাদেশ ও ভারতের কর্মকর্তাদের মধ্যে যোগাযোগ চলছে বলে জানিয়েছে সরকার...  #vodbangla #Vodmedia #VODNews #প্রধানমন্ত্রী #পররাষ্ট্র #modhumotiwithvod | 2026-08-16 | 19:02:41 | https://www.threads.com/@vodbanglabd/post/DcGhlxJoFL6 | 729 | 4 | 1 | 0 | 0 |
+| Image | আজ ১৬ আগস্ট, কিংবদন্তি এই শিল্পীর জন্মদিন...  #vodbangla #vodentertainment #AyubBachchu #modhumotiwithvod | 2026-08-16 | 12:55:43 | https://www.threads.com/@vodbanglabd/post/DcF3l_7EQRE | 255 | 7 | 1 | 0 | 0 |
+| Image | কলম্বিয়ায় শক্তিশালী ভূমিকম্পে মৃ*তের সংখ্যা বেড়ে ২৯৪ জনে...  #vodbangla #vodworld #কলম্বিয়া #modhumotiwithvod | 2026-08-16 | 09:37:43 | https://www.threads.com/@vodbanglabd/post/DcFg7zwoJO5 | 57 | 0 | 1 | 0 | 0 |
+| Image | প্রবাসীকল্যাণ ও বৈদেশিক কর্মসংস্থান প্রতিমন্ত্রী এবং গণঅধিকার পরিষদের সভাপতি নুরুল হক নুরকে নিয়ে এমপি আমির হামজার...  #vodbangla #Vodmedia #VODNews #আমিরহামজা #modhumotiwithvod | 2026-08-15 | 21:03:46 | https://www.threads.com/@vodbanglabd/post/DcEKptCIFEv | 58 | 1 | 1 | 0 | 0 |
+| Image | যুক্তরাষ্ট্রের মিশিগান অঙ্গরাজ্যের মিসককিতে ব/ন্দু/ক হা/ম/লায়...  #vodbangla #vodworld #VODNews #যুক্তরাষ্ট্র #modhumotiwithvod | 2026-08-15 | 20:34:16 | https://www.threads.com/@vodbanglabd/post/DcEHRmVINTb | 97 | 0 | 1 | 0 | 0 |
+| Image | রাজধানীর বসুন্ধরা আবাসিক এলাকার একটি বাসা থেকে মডেল ও অভিনেত্রী...  #vodbangla #vodentertainment #VODNews #রিধি #modhumotiwithvod | 2026-08-15 | 19:52:52 | https://www.threads.com/@vodbanglabd/post/DcECidDoA6c | 156 | 2 | 1 | 0 | 0 |
+| Image | বিএনপির রাজপথের আপসহীন কাণ্ডারি অ্যাডভোকেট রুহুল কবির রিজভী আহমেদ দলের সর্বোচ্চ নীতিনির্ধারণী...  #vodbangla #Vodmedia #VODNews #মাহফুজ #BNP #রিজভী #modhumotiwithvod | 2026-08-15 | 18:52:35 | https://www.threads.com/@vodbanglabd/post/DcD7o5JoHBX | 119 | 1 | 1 | 0 | 0 |
+| Image | যে ঢাকা নিয়ে গর্ব করার কথা, সেই ঢাকা কি আদৌ আছে?  #vodbangla #Vodmedia #VODNews #modhumotiwithvod | 2026-08-15 | 10:38:52 | https://www.threads.com/@vodbanglabd/post/DcDDI1jkSR5 | 37 | 0 | 1 | 0 | 0 |
+| Image | বাংলাদেশের রাজনীতিতে তাঁর নাম উচ্চারিত হলেই সামনে ভেসে উঠত দৃঢ়তা, আপসহীনতা ও গণতান্ত্রিক আন্দোলনের এক দীর্ঘ ইতিহাস। রাষ্ট্রক্ষমতার শীর্ষে থাকা...  #vodbangla #Vodmedia #VODNews #KhaledaZia #birthday #modhumotiwithvod | 2026-08-15 | 00:09:44 | https://www.threads.com/@vodbanglabd/post/DcB7I5AkpcJ | 61 | 2 | 1 | 0 | 0 |
+| Image | নতুন সরকার ছয় মাস পার করছে। এই সময়ে তারেক রহমান সরকার তাদের ৩১ দফা অঙ্গীকারের কতটা...  #vodbangla #Vodmedia #VODNews #সরকার #তারেকরহমান #modhumotiwithvod | 2026-08-14 | 22:32:27 | https://www.threads.com/@vodbanglabd/post/DcBwAVgEsnC | 47 | 1 | 1 | 0 | 0 |
+| Image | ভাইয়ের সম্পত্তিতে বোনের অধিকার নিয়ে যে রায় দিলেন হাইকোর্ট...  #vodbangla #Vodmedia #VODNews #আদালত #সম্পত্তি #modhumotiwithvod | 2026-08-14 | 20:22:33 | https://www.threads.com/@vodbanglabd/post/DcBhI6pIAYt | 411 | 1 | 1 | 0 | 0 |
+| Image | একযোগে অবসর-কল্যাণের টাকা পাচ্ছেন অবসরপ্রাপ্ত বেসরকারি শিক্ষকরা...  #vodbangla #Vodmedia #VODNews #শিক্ষামন্ত্রী #modhumotiwithvod | 2026-08-14 | 19:27:29 | https://www.threads.com/@vodbanglabd/post/DcBa1qCoKoi | 417 | 2 | 1 | 0 | 0 |
+| Image | ইমরান হাশমির ক্যারিয়ারে নতুন রেকর্ডের পথে এগোচ্ছে ‘আওয়ারাপান ২’। মুক্তির প্রথম দিনেই বক্স অফিসে...  #vodbangla #vodentertainment #VODNews #ইমরানহাশমি #আওয়ারাপান২ #modhumotiwithvod | 2026-08-14 | 17:55:37 | https://www.threads.com/@vodbanglabd/post/DcBQUzDIPiQ | 22 | 1 | 0 | 0 | 0 |
+| Image | এক সেঞ্চুরিতেই ইতিহাসের পাতায় নিজের নাম লিখিয়েছেন বাংলাদেশ জাতীয় দলের ক্রিকেটার তানজিদ হাসান তামিম। তার...  #vodbangla #vodsports #VODNews #tanjidtamim31 #modhumotiwithvod | 2026-08-14 | 17:40:00 | https://www.threads.com/@vodbanglabd/post/DcBOiWaoFQb | 50 | 2 | 1 | 0 | 0 |
+| Image | বিসিএস প্রশাসন ক্যাডারের সাত কর্মকর্তাকে বদলি...  #vodbangla #Vodmedia #VODNews #modhumotiwithvod | 2026-08-14 | 11:22:40 | https://www.threads.com/@vodbanglabd/post/DcAjWvakbzD | 445 | 3 | 1 | 0 | 0 |
+| Image | রাজধানীতে অভিযান, আ. লীগের ৫৩ নেতাকর্মী গ্রেপ্তার...  #vodbangla #Vodmedia #VODNews #আওমীলীগ #modhumotiwithvod | 2026-08-14 | 10:11:24 | https://www.threads.com/@vodbanglabd/post/DcAbMsMoH-u | 32 | 0 | 1 | 0 | 0 |
+| Image | ভারত বন্ধুত্বের কথা বলতে চাইলে, আগে শেখ হাসিনা ও ওসমান হাদীর খু*নীদের ফেরত পাঠাতে হবে...  #vodbangla #Vodmedia #VODNews #হাদী #নাহিদইসলাম #modhumotiwithvod | 2026-08-13 | 22:48:40 | https://www.threads.com/@vodbanglabd/post/Db_NEPbEoMg | 36 | 4 | 0 | 0 | 0 |
+| Image | বাংলাদেশের রাজনীতিতে পরিচিত মুখ মির্জা ফখরুল ইসলাম আলমগীর। দীর্ঘ রাজনৈতিক জীবনে...  #vodbangla #Vodmedia #VODNews #মির্জাফখরুল #modhumotiwithvod | 2026-08-13 | 22:21:25 | https://www.threads.com/@vodbanglabd/post/Db_J8qREoOQ | 192 | 0 | 0 | 0 | 0 |
+| Image | এল ক্লাসিকো মানেই রিয়াল মাদ্রিদ ও বার্সেলোনার মর্যাদার লড়াই। তবে...  #vodbangla #vodsports #VODNews #messi #Mourinho #modhumotiwithvod | 2026-08-13 | 22:03:40 | https://www.threads.com/@vodbanglabd/post/Db_H6pVCRYV | 21 | 0 | 1 | 0 | 0 |
+| Image | আগামী ৩০ আগস্ট ডেনমার্কের সহযোগিতায় চট্টগ্রাম বন্দরের লালদিয়া...  #vodbangla #Vodmedia #SheikhRabiulAlam #laldia #modhumotiwithvod | 2026-08-13 | 21:54:33 | https://www.threads.com/@vodbanglabd/post/Db_G39FCUch | 67 | 1 | 1 | 0 | 0 |
+| Image | মন্ত্রিত্ব ও দলীয় পদ ছাড়লেন মির্জা ফখরুল...  #vodbangla #Vodmedia #VODNews #মির্জাফখরুল #modhumotiwithvod | 2026-08-13 | 13:31:54 | https://www.threads.com/@vodbanglabd/post/Db-NWZAICBr | 262 | 0 | 1 | 0 | 0 |
+| Image | সচিব কমিটির বৈঠক সূত্রে জানা গেছে, সরকারি চাকরিজীবীদের মূল বেতন সর্বোচ্চ...  #vodbangla #Vodmedia #VODNews #পেস্কেল #modhumotiwithvod | 2026-08-13 | 11:34:47 | https://www.threads.com/@vodbanglabd/post/Db9_8mvEQ0X | 36 | 0 | 1 | 0 | 0 |
+| Image | ফ্যাসিস্ট আমলের অব্যবস্থার কারণেই মূলত এই সংকট তৈরি হয়েছে...  #vodbangla #Vodmedia #VODNews #modhumotiwithvod #বিদ্যুৎ #জ্বালানি #খনিজসম্পদ | 2026-08-12 | 23:29:18 | https://www.threads.com/@vodbanglabd/post/Db8s6-gknHE | 46 | 1 | 0 | 0 | 0 |
+| Image | শহীদ ডা. কবিরুল ইসলামের কন্যা সাফওয়ানা ইসলাম...  #vodbangla #Vodmedia #VODNews #modhumotiwithvod | 2026-08-12 | 23:05:26 | https://www.threads.com/@vodbanglabd/post/Db8qMMFCQS- | 753 | 2 | 1 | 0 | 0 |
+| Image | কায়েতপাড়ার দুই সেতু নির্মাণ আমার স্বপ্ন...  #vodbangla #Vodmedia #VODNews #modhumotiwithvod | 2026-08-12 | 22:53:51 | https://www.threads.com/@vodbanglabd/post/Db8o3ZuiYzL | 28 | 1 | 1 | 0 | 0 |
+| Image | গণতন্ত্র ও দেশের স্বার্থে সবাইকে ঐক্যবদ্ধ হতে হবে...  #vodbangla #Vodmedia #VODNews #modhumotiwithvod | 2026-08-12 | 21:34:50 | https://www.threads.com/@vodbanglabd/post/Db8f0lfEqML | 207 | 1 | 1 | 0 | 0 |
+| Image | বিমান বদলের সিদ্ধান্ত নেয় নিরাপত্তা প্রশাসন...  #vodbangla #vodworld #DonaldTrump #modhumotiwithvod | 2026-08-12 | 15:18:12 | https://www.threads.com/@vodbanglabd/post/Db70uCUoFVC | 505 | 3 | 1 | 0 | 0 |
+| Image | ফখরুল রাষ্ট্রপতি হলে বিএনপির মহাসচিব কে? শেষ মুহূর্তের হিসাব...  #vodbangla #Vodmedia #VODNews #modhumotiwithvod | 2026-08-12 | 00:00:03 | https://www.threads.com/@vodbanglabd/post/Db6LpYFEu0D | 385 | 0 | 1 | 0 | 0 |
+| Image | পরিবেশদূষণ রোধে সবাইকে সচেতন হতে হবে...  #vodbangla #Vodmedia #VODNews #মুক্তিযুদ্ধ ##modhumotiwithvod | 2026-08-11 | 23:52:49 | https://www.threads.com/@vodbanglabd/post/Db6K0WOEsaz | 27 | 0 | 0 | 0 | 0 |
+| Image | ১৯৭১ সালের মুক্তিযুদ্ধের বিরোধিতাকারী জামায়াতে ইসলামীর...  #vodbangla #Vodmedia #VODNews #রিজভী #modhumotiwithvod | 2026-08-11 | 15:22:42 | https://www.threads.com/@vodbanglabd/post/Db5QcNGoDFo | 190 | 1 | 1 | 0 | 0 |
+| Image | দীর্ঘ ৩৫ বছর পর আবারও সংসদ সদস্যদের ভোটে রাষ্ট্রপতি নির্বাচনের পথে যাচ্ছে বাংলাদেশ। সংসদীয় ব্যবস্থা পুনঃপ্রবর্তনের...  #vodbangla #Vodmedia #VODNews #bdpresident #modhumotiwithvod | 2026-08-11 | 10:23:48 | https://www.threads.com/@vodbanglabd/post/Db4uO4kEVQo | 107 | 0 | 1 | 0 | 0 |
+| Image | গ্রিসে পৌঁছানোর আশায় লিবিয়া থেকে ভূমধ্যসাগর পাড়ি দেওয়ার সময়...  #vodbangla #vodworld #VODNews #ভূমধ্যসাগর #modhumotiwithvod | 2026-08-11 | 09:57:16 | https://www.threads.com/@vodbanglabd/post/Db4rMksoATo | 74 | 0 | 1 | 0 | 0 |
+| Image | অস্ট্রেলিয়ার মাটিতে টেস্ট অভিষেকের অপেক্ষায় তাসকিন...  #vodbangla #Vodsports #TaskinAhmed #modhumotiwithvod | 2026-08-10 | 23:21:23 | https://www.threads.com/@vodbanglabd/post/Db3ibUQko2s | 455 | 9 | 1 | 0 | 0 |
+| Image | বাংলা-ইংরেজি দু’টিই ময়মনসিংহ বোর্ড খারাপ করেছে...  #modhumotiwithvod #vodbangla #Vodmedia #VODNews #শিক্ষামন্ত্রী | 2026-08-10 | 17:43:48 | https://www.threads.com/@vodbanglabd/post/Db27yqwIMOE | 98 | 2 | 0 | 0 | 0 |
+| Image | ছেলের জন্মদিনে পরীর আবেগঘন বার্তা...  #vodbangla #vodentertainment #পরীমনি #modhumotiwithvod | 2026-08-10 | 17:03:36 | https://www.threads.com/@vodbanglabd/post/Db23MTnoO4f | 283 | 2 | 1 | 0 | 0 |
+| Image | দেশের প্রতিটি স্কুল ও কলেজে অন্তত ৫০০টি করে গাছ লাগানো হলে বাংলাদেশ আবারও... #vodbangla #Vodmedia #VODNews #ডিএসসিসি #modhumotiwithvod | 2026-08-10 | 14:08:30 | https://www.threads.com/@vodbanglabd/post/Db2jJ0AIF1P | 50 | 0 | 0 | 0 | 0 |
+| Image | ২০২৬ সালের এসএসসি ও সমমান পরীক্ষার ফল প্রকাশ করা হয়েছে। সোমবার...  #vodbangla #Vodmedia #VODNews #শিক্ষা #modhumotiwithvod | 2026-08-10 | 10:52:15 | https://www.threads.com/@vodbanglabd/post/Db2Msb0kUi- | 98 | 0 | 1 | 0 | 0 |
+| Image | গাজা যুদ্ধ বন্ধে মার্কিন প্রেসিডেন্ট ডোনাল্ড ট্রাম্পের প্রস্তাবিত ১৫...  #vodbangla #Vodmedia #VODNews #Trump #gaza #modhumotiwithvod | 2026-08-10 | 10:31:41 | https://www.threads.com/@vodbanglabd/post/Db2KVzREZZ6 | 282 | 0 | 1 | 0 | 0 |
+| Image | চট্টগ্রামের বেকার যুবকদের কর্মসংস্থান করা হবে।  #vodbangla #Vodmedia #VODNews #প্রধানমন্ত্রী #চট্টগ্রাম #modhumotiwithvod | 2026-08-09 | 19:37:59 | https://www.threads.com/@vodbanglabd/post/Db0kEMViVqE | 19 | 0 | 0 | 0 | 0 |
+| Image | এ বছর নাও হতে পারে বিপিএল...  #vodbangla #vodsports #TamimIqbal #BPL #modhumotiwithvod | 2026-08-09 | 18:08:35 | https://www.threads.com/@vodbanglabd/post/Db0Z1YGIEeI | 50 | 0 | 1 | 0 | 0 |
+| Image | তারেক রহমান ‘জনবান্ধব নেতা’। ভারতের প্রধানমন্ত্রীও জনবান্ধব।  #vodbangla #vodworld #modhumotiwithvod #ভারত | 2026-08-09 | 17:41:10 | https://www.threads.com/@vodbanglabd/post/Db0WsiAoH4V | 113 | 3 | 0 | 0 | 0 |
+| Image | ঢালিউডের জনপ্রিয় চিত্রনায়ক সালমান শাহ হ*ত্যা মামলায় খল চরিত্রের অভিনেতা ডন হককে...  #vodbangla #vodentertainment #VODNews #SalmanShah #modhumotiwithvod | 2026-08-09 | 15:37:35 | https://www.threads.com/@vodbanglabd/post/Db0IjaCIK9L | 43 | 0 | 1 | 0 | 0 |
+| Image | বাংলাদেশের রাজনীতিতে কর্নেল (অব.) অলি আহমদ একটি দীর্ঘ ও বহুমাত্রিক রাজনৈতিক চরিত্র। সামরিক কর্মকর্তা হিসেবে...  #vodbangla #Vodmedia #VODNews #কর্নেলঅলি #রাষ্ট্রপতি #modhumotiwithvod | 2026-08-09 | 14:24:09 | https://www.threads.com/@vodbanglabd/post/Db0AJifEbU9 | 587 | 2 | 1 | 0 | 0 |
+| Image | সৌদি আরবের জুবাইল এলাকায় জোরালো বিস্ফোরণের শব্দ শোনা গেছে। একই সময়ে...  #vodbangla #vodworld #VODNews #saudiarabia #modhumotiwithvod | 2026-08-09 | 13:42:50 | https://www.threads.com/@vodbanglabd/post/Dbz7a--kS3Y | 25 | 1 | 1 | 0 | 0 |
+| Image | দেশের ২৩তম রাষ্ট্রপতি নির্বাচনে জামায়াতে ইসলামী নেতৃত্বাধীন... #vodbangla #Vodmedia #VODNews #modhumotiwithvod #রাষ্ট্রপতি | 2026-08-09 | 13:13:11 | https://www.threads.com/@vodbanglabd/post/Dbz4Bz2Ea3m | 52 | 1 | 0 | 0 | 0 |
+| Image | জুলাই গণঅভ্যুত্থান কারও একক পৈতৃক সম্পত্তি নয়।  #modhumotiwithvod #vodbangla #Vodmedia #VODNews #ইশরাকহোসেন | 2026-08-09 | 00:02:14 | https://www.threads.com/@vodbanglabd/post/DbydgqqEqqo | 19 | 0 | 0 | 0 | 0 |
+| Image | জ্বালানি ও বিদ্যুৎ খাতে নিয়ে একটি চক্র অপ্রচার করছে...  #vodbangla #Vodmedia #VODNews #modhumotiwithvod #প্রধানমন্ত্রী | 2026-08-08 | 23:27:07 | https://www.threads.com/@vodbanglabd/post/DbyZfgEEuAo | 21 | 0 | 0 | 0 | 0 |
+| Image | জীবনের কোনো সিলেবাস নেই...  #vodbangla #vodworld #modhumotiwithvod #মোদি | 2026-08-08 | 23:03:45 | https://www.threads.com/@vodbanglabd/post/DbyW0W3EnaD | 30 | 0 | 1 | 0 | 0 |
+| Image | সাধারণ নাগরিক চাইলেই কি রাষ্ট্রপতি প্রার্থী হতে পারেন?  #modhumotiwithvod #vodbangla #Vodmedia #VODNews #রাষ্ট্রপতি | 2026-08-08 | 22:36:58 | https://www.threads.com/@vodbanglabd/post/DbyTwJFErg5 | 302 | 0 | 1 | 0 | 0 |
+| Video | আটক মার্কিন-ইসরায়েলি ড্রোনের ছবি প্রকাশ করলো ইরান \| US-Israel \| Drone \| Iran \| VOD World   #Israel #modhumotiwithvod #iran #Drones #vodworld | 2026-08-08 | 22:04:10 | https://www.threads.com/@vodbanglabd/post/DbyP594kefS | 872 | 34 | 0 | 0 | 0 |
+| Image | শেখ হাসিনা পালানোর পর দেশেই আত্মগোপনে ছিলেন ছাত্রলীগের সাদ্দাম...  #vodbangla #Vodmedia #VODNews #modhumotiwithvod #ছাত্রলীগ | 2026-08-08 | 20:28:26 | https://www.threads.com/@vodbanglabd/post/DbyFCv6IADb | 1898 | 24 | 3 | 0 | 1 |
+| Image | সরকার বগুড়াকে কোনো রাজনৈতিকভাবে বিশেষ গুরুত্ব অথবা অঞ্চল হিসেবে বিশেষ গুরুত্ব...  #vodbangla #Vodmedia #VODNews #modhumotiwithvod #সড়কযোগাযোগ #সড়কপরিবহন | 2026-08-08 | 17:44:48 | https://www.threads.com/@vodbanglabd/post/DbxyUR8oBhH | 35 | 0 | 1 | 0 | 0 |
+| Image | কক্সবাজারকে ঘিরে উচ্চশিক্ষা ও সামুদ্রিক গবেষণার সুযোগ ...  #vodbangla #Vodmedia #VODNews #modhumotiwithvod #স্বরাষ্ট্রমন্ত্রী | 2026-08-07 | 23:08:50 | https://www.threads.com/@vodbanglabd/post/Dbvymrjkof4 | 63 | 1 | 0 | 0 | 0 |
+| Image | যুবসমাজকে মাদকমুক্ত করতে ক্রীড়ার বিকল্প নেই...  #vodbangla #Vodmedia #VODNews #modhumotiwithvod | 2026-08-07 | 21:22:40 | https://www.threads.com/@vodbanglabd/post/DbvmdEuiX0i | 80 | 1 | 1 | 0 | 0 |
+| Image | দেশে ফিরে বিচার মোকাবিলায় প্রস্তুত সাকিব...  #vodbangla #vodsports #SakibAlHasan #modhumotiwithvod | 2026-08-07 | 19:07:25 | https://www.threads.com/@vodbanglabd/post/DbvW-hEiXZk | 108 | 0 | 1 | 0 | 0 |
+| Image | ফেসবুক পোস্টে রফিকুল ইসলাম জামাল লেখেন, ‘ঝালকাঠির বিএনপি এবং অঙ্গসংগঠনের...  #vodbangla #Vodmedia #VODNews #BNP #modhumotiwithvod | 2026-08-07 | 17:27:50 | https://www.threads.com/@vodbanglabd/post/DbvLlJloCXe | 36 | 0 | 1 | 0 | 0 |
+| Image | ভবিষ্যতে ত্রুটিযুক্ত বাস ডাম্পিং করা হবে না। ভেঙে স্ক্যাপ আকারে বিক্রি করে দেওয়া হবে...  #vodbangla #Vodmedia #VODNews #সড়ক #হাবিব #modhumotiwithvod | 2026-08-07 | 15:55:28 | https://www.threads.com/@vodbanglabd/post/DbvBAseoDrW | 43 | 0 | 0 | 0 | 0 |
+| Image | জিপিএস বা ইনর্শিয়াল নেভিগেশন ব্যবস্থা ব্যবহার না করেই পশ্চিম এশিয়ায় যুক্তরাষ্ট্র-পরিচালিত সামরিক ঘাঁটিগুলোতে...  #vodbangla #Vodmedia #VODNews #ইরান #modhumotiwithvod | 2026-08-07 | 14:16:42 | https://www.threads.com/@vodbanglabd/post/Dbu1tQToLHS | 455 | 4 | 1 | 0 | 0 |
+| Image | বিশ্বকাপসহ ফিফার সব প্রতিযোগিতার বাণিজ্যিক স্বত্ব বিক্রির বিতর্কিত পরিকল্পনা প্রত্যাহারের পর ক্ষমা চেয়েছেন ফিফা সভাপতি জিয়ান্নি ইনফান্তিনো। তবে...  #vodbangla #vodsports #VODNews #ফিফা #modhumotiwithvod | 2026-08-07 | 10:38:44 | https://www.threads.com/@vodbanglabd/post/Dbucw1Lkd6p | 34 | 0 | 0 | 0 | 0 |
+| Image | উন্নয়ন কর্মসূচিতে শনিবার বগুড়া সফরে তিন মন্ত্রী-প্রতিমন্ত্রী...  #vodbangla #Vodmedia #VODNews #modhumotiwithvod | 2026-08-06 | 22:15:24 | https://www.threads.com/@vodbanglabd/post/DbtHsebCfBz | 170 | 1 | 1 | 0 | 0 |
+| Image | চার মন্ত্রণালয়ে নতুন সচিব...  #vodbangla #Vodmedia #VODNews #modhumotiwithvod | 2026-08-06 | 21:06:43 | https://www.threads.com/@vodbanglabd/post/Dbs_1aioNgM | 198 | 0 | 1 | 0 | 0 |
+| Image | 'পুলিশকে আমরা পিটিয়ে র*ক্তাক্ত করেছিলাম'  #vodbangla #Vodmedia #VODNews #এনসিপি #modhumotiwithvod | 2026-08-06 | 20:41:41 | https://www.threads.com/@vodbanglabd/post/Dbs8-H-oN5C | 126 | 1 | 1 | 0 | 0 |
+| Image | যুক্তরাষ্ট্রে বন্দুক হামলা, একই পরিবারের ৩ সদস্য নিহত...  #vodbangla #vodworld #modhumotiwithvod | 2026-08-06 | 16:59:23 | https://www.threads.com/@vodbanglabd/post/Dbsjh7toEV1 | 108 | 1 | 1 | 0 | 0 |
+| Image | আর নেই ‘ময়না ছলাৎ ছলাৎ’ গানের গায়ক...  #vodbangla #vodentertainment #modhumotiwithvod | 2026-08-06 | 14:14:34 | https://www.threads.com/@vodbanglabd/post/DbsQqzaoJpS | 64 | 0 | 1 | 0 | 0 |
+| Image | জুলাই আন্দোলনে শহীদ পরিবার এবং গুরুতর আহত যোদ্ধাদের বিনামূল্যে ফ্ল্যাট বরাদ্দ দেওয়া হবে।  #vodbangla #Vodmedia #VODNews #modhumotiwithvod #গৃহায়ণ #গণপূর্ত | 2026-08-06 | 12:58:27 | https://www.threads.com/@vodbanglabd/post/DbsH9PIoLlx | 45 | 0 | 0 | 0 | 0 |
+| Image | জোড়া গোলে মেসির নতুন কীর্তি, মায়ামির জয়...  #vodbangla #vodsports #InterMiamiCF #messi #modhumotiwithvod | 2026-08-06 | 11:35:21 | https://www.threads.com/@vodbanglabd/post/Dbr-coGEYFO | 431 | 8 | 1 | 0 | 0 |
+| Image | আমাদের রাজনৈতিক মতভিন্নতা, সমালোচনা থাকবে। কিন্তু জাতীয় প্রশ্নে, রাষ্ট্রপতি যেখানে উপস্থিত থাকবেন...  #vodbangla #Vodmedia #VODNews #নাহিদইসলাম #NCP #modhumotiwithvod | 2026-08-05 | 22:47:20 | https://www.threads.com/@vodbanglabd/post/DbqmjgsiTKC | 50 | 2 | 0 | 0 | 0 |
+| Image | নিউটনের আপেলের মতো গণ-অভ্যুত্থান অটোমেটিক পড়েনি...  #vodbangla #Vodmedia #VODNews #স্বরাষ্ট্রমন্ত্রী #modhumotiwithvod | 2026-08-05 | 22:34:44 | https://www.threads.com/@vodbanglabd/post/DbqlHOWiRia | 32 | 1 | 0 | 0 | 0 |
+| Image | ২০২৭ আইসিসি ওয়ানডে বিশ্বকাপের বাছাইপর্বের দিনক্ষণ চূড়ান্ত হয়েছে। আগামী বছরের ২২ ফেব্রুয়ারি বাছাইপর্ব শুরু হয়ে চলবে...  #vodbangla #vodsports #VODNews #ICC #modhumotiwithvod | 2026-08-05 | 22:00:00 | https://www.threads.com/@vodbanglabd/post/DbqhIyOkvQ- | 1283 | 4 | 1 | 0 | 0 |
+| Image | নেত্রকোনার জনপ্রিয় কন্টেন্ট ক্রিয়েটর রিপন মিয়ার বিরুদ্ধে ১৫ বছর বয়সী...  #vodbangla #Vodmedia #VODNews #riponmia #modhumotiwithvod | 2026-08-05 | 19:24:48 | https://www.threads.com/@vodbanglabd/post/DbqPYG2oBYe | 89 | 1 | 1 | 0 | 0 |
+| Image | জামালপুরের মাদারগঞ্জে আল আকাবা বহুমুখী সমবায়...  #vodbangla #Vodmedia #VODNews #জামায়াত #modhumotiwithvod | 2026-08-05 | 18:40:32 | https://www.threads.com/@vodbanglabd/post/DbqKT6nICwA | 148 | 2 | 1 | 0 | 0 |
+| Image | প্রধানমন্ত্রী তারেক রহমান ‘জুলাই গণঅভ্যুত্থান স্মৃতি জাদুঘর’ উদ্বোধন করেছেন। অনুষ্ঠানে সাবেক অন্তর্বর্তী সরকারের...  #vodbangla #Vodmedia #VODNews #জুলাই #প্রধানমন্ত্রী #modhumotiwithvod | 2026-08-05 | 13:08:23 | https://www.threads.com/@vodbanglabd/post/DbpkTKOkVb_ | 63 | 0 | 1 | 0 | 0 |
+| Image | টানা ভারী বৃষ্টিতে সৃষ্ট বন্যা ও ভূমিধসে শ্রীলঙ্কার মধ্যাঞ্চলে অন্তত...  #vodbangla #vodworld #VODNews #শ্রীলঙ্কা #modhumotiwithvod | 2026-08-05 | 11:02:54 | https://www.threads.com/@vodbanglabd/post/DbpV8GrkVYZ | 37 | 0 | 1 | 0 | 0 |
+| Image | প্যারালিগ্যালদের মানুষের পাশে থেকে নিষ্ঠা, সততা ও মানবিকতা নিয়ে কাজ করতে হবে।   #vodbangla #Vodmedia #VODNews #modhumotiwithvod #আইন #বিচার | 2026-08-05 | 00:26:15 | https://www.threads.com/@vodbanglabd/post/DboNFF3kpLc | 23 | 0 | 0 | 0 | 0 |
+| Image | একসময়ের আলোচিত প্রেমিক-প্রেমিকা, এখন দুজনের জীবনই ভিন্ন পথে। কিন্তু হঠাৎ...  #vodbangla #vodentertainment #VODNews #dev #modhumotiwithvod | 2026-08-04 | 15:21:05 | https://www.threads.com/@vodbanglabd/post/DbnOsPtoCsd | 29 | 0 | 1 | 0 | 0 |
+| Image | ভারত মহাসাগরে পরীক্ষামূলক অবতরণের পর ডুবে যাওয়ার বদলে ভেসে থাকা স্পেসএক্সের ১৭০ ফুট দীর্ঘ স্টারশিপ প্রোটোটাইপকে উদ্ধারে...  #vodbangla #vodworld #VODNews #স্টারশিপ #modhumotiwithvod | 2026-08-04 | 14:21:00 | https://www.threads.com/@vodbanglabd/post/DbnH0HJoKCE | 486 | 3 | 1 | 0 | 0 |
+| Image | রাশিয়া ও ইউক্রেনের মধ্যে চলমান যুদ্ধ নতুন করে ভয়াবহ রূপ...  #vodbangla #vodworld #VODNews #modhumotiwithvod | 2026-08-04 | 11:02:48 | https://www.threads.com/@vodbanglabd/post/DbmxIagkaw_ | 26 | 0 | 1 | 0 | 0 |
+| Image | ডুলির কোচিং স্টাফে আরও তিন বিদেশি...  #vodbangla #Vodsports #modhumotiwithvod #বাফুফে | 2026-08-03 | 21:51:26 | https://www.threads.com/@vodbanglabd/post/DblWkVOCRqp | 41 | 2 | 1 | 0 | 0 |
+| Image | কখনোই কোনো রাজনৈতিক দলের সঙ্গে ছিলাম না...  #vodbangla #vodentertainment #modhumotiwithvod #শাকিবখান | 2026-08-03 | 19:23:53 | https://www.threads.com/@vodbanglabd/post/DblFrqNiXtX | 64 | 2 | 0 | 0 | 0 |
+| Image | বন্ধ হয়ে গেল উত্তরাঞ্চলের জনপ্রিয় ‘শাপলা টকিজ’...  #vodbangla #vodentertainment #modhumotiwithvod | 2026-08-03 | 17:17:52 | https://www.threads.com/@vodbanglabd/post/Dbk3QoNEoQt | 77 | 2 | 1 | 0 | 0 |
+| Image | ঢাকা দক্ষিণ সিটি কর্পোরেশনের (ডিএসসিসি) প্রশাসক বীর মুক্তিযোদ্ধা মো. আব্দুস সালাম বলেছেন, জুলাই আন্দোলনের মধ্য দিয়ে...  #vodbangla #Vodmedia #VODNews #dscc #আব্দুসসালাম #modhumotiwithvod | 2026-08-03 | 15:55:22 | https://www.threads.com/@vodbanglabd/post/Dbkt0dnoNQa | 71 | 1 | 1 | 0 | 0 |
+| Image | কার্যক্রম নিষিদ্ধ আওয়ামী লীগের ৫ আগস্ট ঘিরে কোনো তৎপরতা চালানোর সক্ষমতা নেই...  #vodbangla #Vodmedia #VODNews #স্বরাষ্ট্রমন্ত্রী #modhumotiwithvod | 2026-08-03 | 13:26:06 | https://www.threads.com/@vodbanglabd/post/DbkcvGdEfCK | 126 | 3 | 1 | 0 | 0 |
+| Image | হরমুজ প্রণালি আর কখনোই ‘যুদ্ধপূর্ব অবস্থায়’ ফিরে যাবে না বলে মন্তব্য করেছেন ইরানের পররাষ্ট্র মন্ত্রণালয়ের...  #vodbangla #Vodmedia #VODNews #iran #modhumotiwithvod | 2026-08-03 | 12:05:58 | https://www.threads.com/@vodbanglabd/post/DbkTkOtkeSp | 494 | 14 | 1 | 0 | 0 |
+| Image | কমনওয়েলথ গেমসে নারীদের প্যারা বোলস পেয়ার্স (বিসিক্স-বিএইট) ইভেন্টে সোনা জিতে ইতিহাস গড়েছেন অস্ট্রেলিয়ার...  #vodbangla #vodsports #VODNews #australia #modhumotiwithvod | 2026-08-02 | 23:09:41 | https://www.threads.com/@vodbanglabd/post/Dbi6ujDEhVR | 92 | 1 | 1 | 0 | 0 |
+| Image | আগস্ট মাসের জন্য ১২ কেজি তরলীকৃত পেট্রোলিয়াম গ্যাসের (এলপিজি) সিলিন্ডারের দাম...  #vodbangla #Vodmedia #VODNews #lpg #modhumotiwithvod | 2026-08-02 | 19:49:36 | https://www.threads.com/@vodbanglabd/post/Dbij1HRCWWn | 351 | 1 | 1 | 0 | 0 |
+| Image | সম্প্রতি তার ব্যক্তিজীবন নিয়ে নতুন করে আলোচনা...  #vodbangla #vodentertainment #VODNews #পরীমনি #modhumotiwithvod | 2026-08-02 | 19:06:30 | https://www.threads.com/@vodbanglabd/post/Dbie5Zgkn_a | 24 | 1 | 1 | 0 | 0 |
+| Image | মোহাম্মদপুরে বিএনপি অফিস ভাঙচুর, মামলা হলেও গ্রেপ্তার নেই...  #vodbangla #Vodmedia #VODNews #modhumotiwithvod #বিএনপ | 2026-08-02 | 11:56:51 | https://www.threads.com/@vodbanglabd/post/DbhtupAkXpp | 56 | 1 | 1 | 0 | 0 |
+| Image | যুক্তরাষ্ট্রের আইডাহোতে রেস্তোরাঁয় গু*লি, নি*হত ৩...  #vodbangla #vodworld #modhumotiwithvod #যুক্তরাষ্ট্র | 2026-08-02 | 10:45:28 | https://www.threads.com/@vodbanglabd/post/DbhljzbEfNZ | 71 | 0 | 1 | 0 | 0 |
+| Image | বাউল সাধকের একতারা, মেঠো সুর আর ভিটেমাটি ছাড়ার নীরব হাহাকার শিকড়, স্মৃতি ও বাস্তুচ্যুতির এমন...  #vodbangla #vodentertainment #VODNews #অস্কার #সুবল #modhumotiwithvod | 2026-08-02 | 00:01:25 | https://www.threads.com/@vodbanglabd/post/Dbgb2pakvQR | 35 | 0 | 1 | 0 | 0 |
+| Image | ১৮ কোটি মানুষের ৩৬ কোটি চোখ জাতীয় সংসদের কার্যক্রমের ওপর নিবদ্ধ হয়ে আছে...  #vodbangla #Vodmedia #VODNews #স্পিকার #modhumotiwithvod | 2026-08-01 | 23:50:53 | https://www.threads.com/@vodbanglabd/post/Dbgapftkmit | 46 | 2 | 0 | 0 | 0 |
+| Image | 'চলতি মাসেই ঢাকা-কক্সবাজার রুটে আরও একজোড়া ট্রেন'  #vodbangla #Vodmedia #VODNews #modhumotiwithvod #রেলপথ | 2026-08-01 | 17:16:18 | https://www.threads.com/@vodbanglabd/post/DbftfXzIM-4 | 182 | 3 | 1 | 1 | 0 |
+| Image | ইরান সহ্য করতে না পারা পর্যন্ত হামলা চলবে...  #vodbangla #vodworld #modhumotiwithvod #iran #DonaldTrump | 2026-08-01 | 12:38:41 | https://www.threads.com/@vodbanglabd/post/DbfNuKmkZLt | 135 | 0 | 1 | 0 | 0 |
+| Image | বিশ্বকাপের স্বত্ব বিক্রির পরিকল্পনা থেকে সরে দাঁড়াল ফিফা...  #vodbangla #vodsports #modhumotiwithvod #FIFAWorldCup2026 | 2026-08-01 | 11:07:21 | https://www.threads.com/@vodbanglabd/post/DbfDRKekRpo | 87 | 1 | 1 | 0 | 0 |
+| Image | আমরা ইরানের ওপর কঠোর আঘাত হানছি...  #vodbangla #vodworld #VODNews #ট্রাম্প #modhumotiwithvod | 2026-08-01 | 00:13:23 | https://www.threads.com/@vodbanglabd/post/Dbd4bVOEr0H | 46 | 0 | 0 | 0 | 0 |
 
